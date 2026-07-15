@@ -1,0 +1,1862 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Halo, selamat beraktivitas"},
+      {"role": "assistant", "content": "Terima kasih. Semoga lancar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hai, sudah sarapan?"},
+      {"role": "assistant", "content": "Saya tidak sarapan. Tapi semoga kamu sudah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Selamat pagi, dunia maya"},
+      {"role": "assistant", "content": "Pagi. Maya tapi nyata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siang terik, gerah"},
+      {"role": "assistant", "content": "Minum es. Cari tempat teduh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sore mulai gelap"},
+      {"role": "assistant", "content": "Nyalakan lampu. Suasana tenang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Malam sunyi, sepi"},
+      {"role": "assistant", "content": "Sepi kadang enak. Refleksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Udara pagi ini segar"},
+      {"role": "assistant", "content": "Hirup dalam-dalam. Gratis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku bangun kesiangan"},
+      {"role": "assistant", "content": "Tidak apa. Masih ada waktu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Matahari terbit indah"},
+      {"role": "assistant", "content": "Awal baru. Penuh harapan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku suka senja"},
+      {"role": "assistant", "content": "Senja itu puitis. Warna lembut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Angin malam dingin"},
+      {"role": "assistant", "content": "Pakai jaket. Jangan lupa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Daun berguguran"},
+      {"role": "assistant", "content": "Musim berganti. Alami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bunga di taman mekar"},
+      {"role": "assistant", "content": "Warna-warni. Menyejukkan mata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kupu-kupu hinggap"},
+      {"role": "assistant", "content": "Pertanda ekosistem sehat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suara burung pagi"},
+      {"role": "assistant", "content": "Alarm alami. Lebih ramah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku dengar gonggongan"},
+      {"role": "assistant", "content": "Mungkin ada tamu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kucingku mengeong"},
+      {"role": "assistant", "content": "Minta makan atau perhatian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ikan di kolam renang"},
+      {"role": "assistant", "content": "Gerakannya tenang. Lihat saja."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Langit abu-abu"},
+      {"role": "assistant", "content": "Mau hujan. Siapkan payung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Petir menyambar"},
+      {"role": "assistant", "content": "Jauhi jendela. Aman di dalam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Banjir di jalan"},
+      {"role": "assistant", "content": "Hati-hati. Cari rute aman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Udara lembab"},
+      {"role": "assistant", "content": "Nyalakan kipas. Biar sejuk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kabut pagi tebal"},
+      {"role": "assistant", "content": "Pelan-pelan. Jarak pandang pendek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Embun di daun"},
+      {"role": "assistant", "content": "Murni. Seperti kristal kecil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku suka hujan gerimis"},
+      {"role": "assistant", "content": "Gerimis romantis. Teduh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Badai sudah reda"},
+      {"role": "assistant", "content": "Leganya. Bersihkan halaman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Es krim enak"},
+      {"role": "assistant", "content": "Manis dingin. Camilan ceria."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Cokelat bikin mood baik"},
+      {"role": "assistant", "content": "Memang. Sekadar sedikit saja."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kue buatan sendiri"},
+      {"role": "assistant", "content": "Lebih istimewa. Ada usaha."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Makanan pedas favoritku"},
+      {"role": "assistant", "content": "Pedas nendang. Siapkan air."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Buah segar menyehatkan"},
+      {"role": "assistant", "content": "Serat dan vitamin. Penting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sayur mayur dari pasar"},
+      {"role": "assistant", "content": "Segar. Masak sendiri lebih puas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ikan bakar pinggir jalan"},
+      {"role": "assistant", "content": "Asapnya aromatik. Nikmat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sate ayam lezat"},
+      {"role": "assistant", "content": "Bumbu kacang juara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bakso kuah panas"},
+      {"role": "assistant", "content": "Cocok saat hujan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mie instan kadang obat"},
+      {"role": "assistant", "content": "Praktis. Tapi jangan sering."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kopi tubruk kesukaan"},
+      {"role": "assistant", "content": "Hitam pekat. Sederhana."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Teh melati hangat"},
+      {"role": "assistant", "content": "Aroma menenangkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Susu sebelum tidur"},
+      {"role": "assistant", "content": "Bikin nyenyak. Hangat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jus jeruk pagi"},
+      {"role": "assistant", "content": "Segar. Vitamin C alami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Air kelapa di siang hari"},
+      {"role": "assistant", "content": "Elektrolit alami. Sehat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Roti panggang mentega"},
+      {"role": "assistant", "content": "Simpel mengenyangkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sarapan bubur ayam"},
+      {"role": "assistant", "content": "Lembut. Bikin kenyang lama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Makan siang nasi padang"},
+      {"role": "assistant", "content": "Rendang juara. Pedas meresap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Camilan sore gorengan"},
+      {"role": "assistant", "content": "Tahu isi, tempe mendoan. Hangat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Malam minggu pizza"},
+      {"role": "assistant", "content": "Keju meleleh. Santai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku suka memasak"},
+      {"role": "assistant", "content": "Kreatif. Bumbu sesuka hati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Resep online banyak"},
+      {"role": "assistant", "content": "Pilih rating tinggi. Ikuti dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dapur kecil tapi nyaman"},
+      {"role": "assistant", "content": "Ruang minimal. Hasil maksimal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pisau tumpul, susah"},
+      {"role": "assistant", "content": "Asah dulu. Biar efisien."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kompor gas mati"},
+      {"role": "assistant", "content": "Periksa regulator. Bisa diganti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Panci gosong"},
+      {"role": "assistant", "content": "Rendam air sabun. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Meja makan berantakan"},
+      {"role": "assistant", "content": "Lap bersih. Nyaman dipakai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Cuci piring menumpuk"},
+      {"role": "assistant", "content": "Satu per satu. Nanti selesai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Setrika baju licin"},
+      {"role": "assistant", "content": "Hati-hati. Jangan lupa matikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Cucian belum kering"},
+      {"role": "assistant", "content": "Jemur di tempat angin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sepatu kotor"},
+      {"role": "assistant", "content": "Sikat pelan. Bersih lagi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tas ransel robek"},
+      {"role": "assistant", "content": "Jahit atau tambal. Sementara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Buku sobek"},
+      {"role": "assistant", "content": "Selotip bening. Masih bisa dibaca."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Laptop lemot"},
+      {"role": "assistant", "content": "Restart. Hapus file tak perlu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Internet putus-putus"},
+      {"role": "assistant", "content": "Reset router. Tunggu sebentar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Layar ponsel retak"},
+      {"role": "assistant", "content": "Kasih pelindung. Hati-hati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Baterai cepat habis"},
+      {"role": "assistant", "content": "Kurangi kecerahan. Charge."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Keyboard rusak"},
+      {"role": "assistant", "content": "Pakai eksternal dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mouse hilang"},
+      {"role": "assistant", "content": "Pakai touchpad. Cari di kolong meja."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Data belum disimpan"},
+      {"role": "assistant", "content": "Simpan sekarang. Jangan lupa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "File terhapus"},
+      {"role": "assistant", "content": "Cek recycle bin. Mungkin ada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Password lupa"},
+      {"role": "assistant", "content": "Reset. Catat di tempat aman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aplikasi error"},
+      {"role": "assistant", "content": "Update atau reinstall."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Notifikasi banyak"},
+      {"role": "assistant", "content": "Matikan yang tidak penting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Layar biru"},
+      {"role": "assistant", "content": "Catat kode error. Restart."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Update sistem lama"},
+      {"role": "assistant", "content": "Biarkan selesai. Jangan dimatikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Komputer nyala terus"},
+      {"role": "assistant", "content": "Restart berkala. Biar adem."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kabel berantakan"},
+      {"role": "assistant", "content": "Ikat. Rapikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Stop kontak longgar"},
+      {"role": "assistant", "content": "Bahaya. Panggil tukang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lampu mati"},
+      {"role": "assistant", "content": "Ganti bohlam. Atau cek sekring."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Air keran kecil"},
+      {"role": "assistant", "content": "Mungkin tekanan rendah. Cek pompa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pintu berderit"},
+      {"role": "assistant", "content": "Olesi minyak. Senyap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jendela macet"},
+      {"role": "assistant", "content": "Semprot pelumas. Pelan-pelan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jam dinding mati"},
+      {"role": "assistant", "content": "Ganti baterai. Atur ulang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kalender belum ganti"},
+      {"role": "assistant", "content": "Sobek yang lama. Bulan baru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Stok sabun habis"},
+      {"role": "assistant", "content": "Beli lagi. Jaga kebersihan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tisu toilet kosong"},
+      {"role": "assistant", "content": "Isi ulang. Sedia sebelum habis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tempat sampah penuh"},
+      {"role": "assistant", "content": "Buang. Ikat rapat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lantai kotor"},
+      {"role": "assistant", "content": "Sapu atau pel. Wangi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Cermin berdebu"},
+      {"role": "assistant", "content": "Lap dengan koran. Kinclong."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Baju kusut"},
+      {"role": "assistant", "content": "Setrika atau semprot air."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kancing lepas"},
+      {"role": "assistant", "content": "Jahit. Atau pakai peniti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Resleting macet"},
+      {"role": "assistant", "content": "Gosok lilin. Pelan-pelan tarik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tali sepatu putus"},
+      {"role": "assistant", "content": "Ganti baru. Murah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Topi hilang"},
+      {"role": "assistant", "content": "Cari di tempat biasa. Atau beli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kacamata buram"},
+      {"role": "assistant", "content": "Lap dengan kain lembut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dompet tipis"},
+      {"role": "assistant", "content": "Hemat. Atur prioritas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Uang receh banyak"},
+      {"role": "assistant", "content": "Kumpulkan. Tukar nanti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "ATM offline"},
+      {"role": "assistant", "content": "Cari gerai lain. Atau m-banking."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kartu ATM tertelan"},
+      {"role": "assistant", "content": "Hubungi bank. Blokir dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Struk belanja numpuk"},
+      {"role": "assistant", "content": "Sortir. Buang yang tidak perlu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Parkir penuh"},
+      {"role": "assistant", "content": "Putar lagi. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bensin tinggal sedikit"},
+      {"role": "assistant", "content": "Isi sekarang. Jangan tunggu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ban kempes"},
+      {"role": "assistant", "content": "Tukar dengan cadangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mesin mobil aneh"},
+      {"role": "assistant", "content": "Bawa ke bengkel. Cek segera."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Angkot penuh"},
+      {"role": "assistant", "content": "Tunggu berikutnya. Atau jalan kaki."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bus telat"},
+      {"role": "assistant", "content": "Cek jadwal. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kereta padat"},
+      {"role": "assistant", "content": "Pegangan erat. Tetap waspada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ojek online lama"},
+      {"role": "assistant", "content": "Cek posisi. Hubungi driver."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Alamat tidak ketemu"},
+      {"role": "assistant", "content": "Pakai GPS. Tanya warga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jalan ditutup"},
+      {"role": "assistant", "content": "Putar balik. Cari alternatif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Macet total"},
+      {"role": "assistant", "content": "Matikan mesin. Hemat bensin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lampu merah lama"},
+      {"role": "assistant", "content": "Jangan nerobos. Bahaya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Penyeberang jalan"},
+      {"role": "assistant", "content": "Berhenti. Utamakan pejalan kaki."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rambu lalu lintas"},
+      {"role": "assistant", "content": "Patuhi. Demi keselamatan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Polisi tilang"},
+      {"role": "assistant", "content": "Terima. Lengkapi surat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "SIM hilang"},
+      {"role": "assistant", "content": "Urus di Samsat. Bawa KTP."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "STNK mati"},
+      {"role": "assistant", "content": "Perpanjang. Jangan ditunda."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Asap knalpot hitam"},
+      {"role": "assistant", "content": "Servis. Boros bensin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Klakson tidak bunyi"},
+      {"role": "assistant", "content": "Cek sekring. Atau ganti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lampu sein mati"},
+      {"role": "assistant", "content": "Ganti bohlam. Isyarat penting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kaca spion copot"},
+      {"role": "assistant", "content": "Rekatkan. Atau ganti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jok sobek"},
+      {"role": "assistant", "content": "Jahit atau sarungi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Helm kotor"},
+      {"role": "assistant", "content": "Lap. Jaga visibilitas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sarung tangan hilang"},
+      {"role": "assistant", "content": "Beli baru. Atau pakai tanpa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hujan gerimis naik motor"},
+      {"role": "assistant", "content": "Pakai jas hujan. Hati-hati licin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku terjebak macet"},
+      {"role": "assistant", "content": "Atur napas. Dengarkan radio."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Perjalanan jauh melelahkan"},
+      {"role": "assistant", "content": "Istirahat tiap 2 jam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rest area tutup"},
+      {"role": "assistant", "content": "Cari pom bensin terdekat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mobil mogok"},
+      {"role": "assistant", "content": "Hidupkan hazard. Panggil derek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aki soak"},
+      {"role": "assistant", "content": "Jumper aki. Atau ganti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Radiator overheat"},
+      {"role": "assistant", "content": "Berhenti. Biarkan dingin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Oli mesin kurang"},
+      {"role": "assistant", "content": "Tambah. Cek dipstick."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Air wiper habis"},
+      {"role": "assistant", "content": "Isi. Campur sabun sedikit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kaca mobil buram"},
+      {"role": "assistant", "content": "Lap pakai koran."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Klakson nyangkut"},
+      {"role": "assistant", "content": "Bunyinya keras. Cek kabel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aroma bensin"},
+      {"role": "assistant", "content": "Jangan nyalakan api. Periksa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Asap dari kap mesin"},
+      {"role": "assistant", "content": "Berhenti. Jangan dibuka dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bunyi mencicit"},
+      {"role": "assistant", "content": "Fan belt mungkin aus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Stir berat"},
+      {"role": "assistant", "content": "Cek power steering."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rem blong"},
+      {"role": "assistant", "content": "Berhenti. Jangan diteruskan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mundur susah"},
+      {"role": "assistant", "content": "Cek transmisi. Pelan-pelan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Gigi sulit masuk"},
+      {"role": "assistant", "content": "Injak kopling dalam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bensin campur solar"},
+      {"role": "assistant", "content": "Jangan dihidupkan. Kuras."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Knalpot copot"},
+      {"role": "assistant", "content": "Suara keras. Segera bengkel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku mau servis rutin"},
+      {"role": "assistant", "content": "Baik. Ganti oli dan filter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ban aus"},
+      {"role": "assistant", "content": "Ganti baru. Alur penting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Velg penyok"},
+      {"role": "assistant", "content": "Reparasi. Atau tukar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Shockbreaker bocor"},
+      {"role": "assistant", "content": "Ganti sepasang. Lebih stabil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Knalpot berasap putih"},
+      {"role": "assistant", "content": "Mungkin ring piston aus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mobil mogok di tanjakan"},
+      {"role": "assistant", "content": "Rem tangan. Gas pelan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jalan menurun tajam"},
+      {"role": "assistant", "content": "Pakai gigi rendah. Jangan netral."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tikungan tajam"},
+      {"role": "assistant", "content": "Kurangi kecepatan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jalan berlubang"},
+      {"role": "assistant", "content": "Hindari. Atau pelankan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Polisi tidur"},
+      {"role": "assistant", "content": "Rem halus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Marka jalan pudar"},
+      {"role": "assistant", "content": "Estimasi sendiri. Hati-hati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jembatan sempit"},
+      {"role": "assistant", "content": "Bergantian. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rel kereta tanpa palang"},
+      {"role": "assistant", "content": "Tengok kiri-kanan. Pastikan aman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lampu jalan mati"},
+      {"role": "assistant", "content": "Nyalakan lampu besar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kabut tebal saat malam"},
+      {"role": "assistant", "content": "Lampu kabut. Pelankan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hujan deras, wiper kalah"},
+      {"role": "assistant", "content": "Berhenti jika perlu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Angin kencang"},
+      {"role": "assistant", "content": "Pegang stir kuat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Debu tebal"},
+      {"role": "assistant", "content": "Tutup jendela. Nyalakan AC."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Banyak sepeda motor"},
+      {"role": "assistant", "content": "Jaga jarak. Mereka lincah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pejalan kaki menyeberang"},
+      {"role": "assistant", "content": "Berhenti. Hormati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Anak kecil main di jalan"},
+      {"role": "assistant", "content": "Klakson pelan. Waspada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hewan lewat"},
+      {"role": "assistant", "content": "Rem. Jangan ditabrak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Gerobak di tengah jalan"},
+      {"role": "assistant", "content": "Sabar. Nyalip jika aman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Parkir liar"},
+      {"role": "assistant", "content": "Cari tempat resmi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tarif parkir mahal"},
+      {"role": "assistant", "content": "Tawar. Atau cari lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tukang parkir tidak jelas"},
+      {"role": "assistant", "content": "Tanya resmi atau tidak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Motor dicuri"},
+      {"role": "assistant", "content": "Lapor polisi. Kunci ganda."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kunci tertinggal di dalam"},
+      {"role": "assistant", "content": "Panggil ahli kunci."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pintu tidak bisa dikunci"},
+      {"role": "assistant", "content": "Cek pengait. Mungkin longgar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Alarm mobil bunyi terus"},
+      {"role": "assistant", "content": "Cek remote. Matikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aki remote habis"},
+      {"role": "assistant", "content": "Ganti baterai. Kecil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mobil dipinjam teman"},
+      {"role": "assistant", "content": "Pastikan SIM-nya aktif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Nebeng teman"},
+      {"role": "assistant", "content": "Ikut aturan. Ikat sabuk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Taksi argo mahal"},
+      {"role": "assistant", "content": "Bandingkan online. Pilih murah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bajaj berisik"},
+      {"role": "assistant", "content": "Tutup telinga. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Delman lewat"},
+      {"role": "assistant", "content": "Pelan. Kuda lelah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sepeda ontel"},
+      {"role": "assistant", "content": "Santai. Gowes pelan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Skuter listrik"},
+      {"role": "assistant", "content": "Isi daya. Pakai helm."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku jalan kaki saja"},
+      {"role": "assistant", "content": "Sehat. Nikmati sekitar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sendal jepit putus"},
+      {"role": "assistant", "content": "Sementara ikat. Beli baru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kaki lecet"},
+      {"role": "assistant", "content": "Beri plester. Istirahat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Haus di perjalanan"},
+      {"role": "assistant", "content": "Beli minum. Bawa botol sendiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lapar mendadak"},
+      {"role": "assistant", "content": "Cari warung terdekat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Toilet umum kotor"},
+      {"role": "assistant", "content": "Pakai tisu. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hujan tanpa payung"},
+      {"role": "assistant", "content": "Berteduh. Jangan paksa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tersesat"},
+      {"role": "assistant", "content": "Buka peta. Tanya orang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dompet ketinggalan"},
+      {"role": "assistant", "content": "Balik. Atau pinjam dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ponsel lowbat"},
+      {"role": "assistant", "content": "Power bank. Atau hemat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sinyal hilang"},
+      {"role": "assistant", "content": "Cari tempat tinggi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pulsa habis"},
+      {"role": "assistant", "content": "Isi. Atau pakai wifi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kuota menipis"},
+      {"role": "assistant", "content": "Beli paket. Hemat streaming."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku tersenyum"},
+      {"role": "assistant", "content": "Senyum itu menular."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Matahari sudah tinggi"},
+      {"role": "assistant", "content": "Waktu berjalan. Manfaatkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bintang jatuh"},
+      {"role": "assistant", "content": "Buat harapan. Diam-diam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suasana hening"},
+      {"role": "assistant", "content": "Dengarkan detak jantung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku sendiri di rumah"},
+      {"role": "assistant", "content": "Nikmati. Ruang milikmu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tamu datang"},
+      {"role": "assistant", "content": "Sambut ramah. Tawarkan minum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Surat sampai"},
+      {"role": "assistant", "content": "Baca. Balas jika perlu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Paket kurir"},
+      {"role": "assistant", "content": "Cek isi. Konfirmasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Belanja online"},
+      {"role": "assistant", "content": "Baca review. Bandingkan harga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Diskon menggiurkan"},
+      {"role": "assistant", "content": "Cek kebutuhan. Jangan impulsif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Barang tidak sesuai"},
+      {"role": "assistant", "content": "Retur. Komplain sopan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Penipuan online"},
+      {"role": "assistant", "content": "Jangan transfer. Verifikasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku terjebak spam"},
+      {"role": "assistant", "content": "Blokir. Jangan klik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Email phishing"},
+      {"role": "assistant", "content": "Hapus. Jangan berikan data."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Akun di-hack"},
+      {"role": "assistant", "content": "Ganti password. Aktifkan 2FA."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sandi terlalu lemah"},
+      {"role": "assistant", "content": "Kombinasi huruf, angka, simbol."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Virus komputer"},
+      {"role": "assistant", "content": "Scan. Hapus file mencurigakan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Backup data"},
+      {"role": "assistant", "content": "Cloud atau hard disk. Rutin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Software bajakan"},
+      {"role": "assistant", "content": "Rentan. Pakai yang legal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lisensi expired"},
+      {"role": "assistant", "content": "Perpanjang. Cari alternatif gratis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Printer macet"},
+      {"role": "assistant", "content": "Cek kertas. Restart."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tinta habis"},
+      {"role": "assistant", "content": "Isi ulang. Atau ganti cartridge."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kertas nyangkut"},
+      {"role": "assistant", "content": "Tarik pelan. Jangan sobek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Scan dokumen"},
+      {"role": "assistant", "content": "Pakai aplikasi. Praktis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Foto copy pudar"},
+      {"role": "assistant", "content": "Atur kontras. Bersihkan kaca."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Map hilang"},
+      {"role": "assistant", "content": "Cari di tumpukan. Teliti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Stapler kosong"},
+      {"role": "assistant", "content": "Isi staples. Tekan kuat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pulpen macet"},
+      {"role": "assistant", "content": "Guncang. Atau ganti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kertas habis"},
+      {"role": "assistant", "content": "Beli. Atau pakai digital."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Catatan ilang"},
+      {"role": "assistant", "content": "Coba ingat. Tulis lagi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ide mendadak"},
+      {"role": "assistant", "content": "Catat. Sebelum lupa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sketsa kasar"},
+      {"role": "assistant", "content": "Simpan. Bisa dikembangkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Warna cat habis"},
+      {"role": "assistant", "content": "Campur. Atau beli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kanvas kosong"},
+      {"role": "assistant", "content": "Mulai gores. Ekspresikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suara gitar sumbang"},
+      {"role": "assistant", "content": "Stem. Pakai tuner."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Senar putus"},
+      {"role": "assistant", "content": "Ganti. Beli satu set."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Drum kedap suara"},
+      {"role": "assistant", "content": "Pakai bantalan. Redam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Vokal serak"},
+      {"role": "assistant", "content": "Minum air hangat. Istirahat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lagu baru tercipta"},
+      {"role": "assistant", "content": "Rekam. Jangan hilang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku butuh inspirasi"},
+      {"role": "assistant", "content": "Jalan-jalan. Lihat sekitar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mata lelah"},
+      {"role": "assistant", "content": "Pejamkan. Kompres dingin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Punggung pegal"},
+      {"role": "assistant", "content": "Peregangan. Berdiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kepala pusing"},
+      {"role": "assistant", "content": "Minum air. Mungkin dehidrasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Flu ringan"},
+      {"role": "assistant", "content": "Istirahat. Vitamin C."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Batuk kering"},
+      {"role": "assistant", "content": "Madu hangat. Redakan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bersin terus"},
+      {"role": "assistant", "content": "Mungkin alergi. Tutup hidung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Luka kecil"},
+      {"role": "assistant", "content": "Bersihkan. Plester."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Obat habis"},
+      {"role": "assistant", "content": "Beli di apotek. Resep jika perlu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dokter praktek"},
+      {"role": "assistant", "content": "Buat janji. Datang tepat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Asuransi kesehatan"},
+      {"role": "assistant", "content": "Aktifkan. Simpan nomor."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rumah sakit rujukan"},
+      {"role": "assistant", "content": "Siapkan surat. Tenang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Antre panjang"},
+      {"role": "assistant", "content": "Bawa bacaan. Sabar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Panggilan telepon"},
+      {"role": "assistant", "content": "Angkat. Sapa dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "SMS masuk"},
+      {"role": "assistant", "content": "Baca. Balas singkat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Chat grup ramai"},
+      {"role": "assistant", "content": "Mute sementara. Fokus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Panggilan video"},
+      {"role": "assistant", "content": "Tatap kamera. Jelas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Zoom meeting"},
+      {"role": "assistant", "content": "On time. Mute jika perlu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Presentasi online"},
+      {"role": "assistant", "content": "Bagikan layar. Jelas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Deadline besok"},
+      {"role": "assistant", "content": "Kerjakan. Jangan begadang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tugas numpuk"},
+      {"role": "assistant", "content": "Prioritaskan. Satu per satu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berkas rapi"},
+      {"role": "assistant", "content": "Lipat. Simpan di map."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Meja kerja bersih"},
+      {"role": "assistant", "content": "Enak dilihat. Fokus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kursi empuk"},
+      {"role": "assistant", "content": "Tulang punggung senang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "AC terlalu dingin"},
+      {"role": "assistant", "content": "Naikkan suhu. Atau jaket."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ruang gelap"},
+      {"role": "assistant", "content": "Nyalakan lampu. Jaga mata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suara bising"},
+      {"role": "assistant", "content": "Earphone. Noise cancelling."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kopi tumpah"},
+      {"role": "assistant", "content": "Lap. Jangan kaget."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tinta bocor"},
+      {"role": "assistant", "content": "Bungkus tisu. Jaga tangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Gunting tumpul"},
+      {"role": "assistant", "content": "Asah. Atau beli."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lem tidak lengket"},
+      {"role": "assistant", "content": "Bersihkan permukaan. Tekan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Isolasi habis"},
+      {"role": "assistant", "content": "Pakai lakban dulu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Penggaris patah"},
+      {"role": "assistant", "content": "Sambung sementara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Baterai remote habis"},
+      {"role": "assistant", "content": "Ganti. Arahkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "TV tidak ada sinyal"},
+      {"role": "assistant", "content": "Cek kabel. Scan ulang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Radio statis"},
+      {"role": "assistant", "content": "Cari frekuensi. Geser antena."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Headset putus"},
+      {"role": "assistant", "content": "Solder. Atau beli baru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suara speaker pecah"},
+      {"role": "assistant", "content": "Volume rendah. Cek driver."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mikrofon mati"},
+      {"role": "assistant", "content": "Cek mute. Dekatkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Webcam gelap"},
+      {"role": "assistant", "content": "Buka lensa. Cahaya cukup."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Charger ponsel rusak"},
+      {"role": "assistant", "content": "Ganti kabel. Coba colokan lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Stop kontak mati"},
+      {"role": "assistant", "content": "Tes dengan lampu. MCB mungkin turun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Listrik padam"},
+      {"role": "assistant", "content": "Siapkan lilin. Tetap tenang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Genset nyala"},
+      {"role": "assistant", "content": "Bensin cukup. Ventilasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Senter redup"},
+      {"role": "assistant", "content": "Ganti baterai. Atau charge."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lilin habis"},
+      {"role": "assistant", "content": "Sedia cadangan. Atau gelap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kompor gas nyala kecil"},
+      {"role": "assistant", "content": "Bersihkan lubang. Cek regulator."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pompa air mati"},
+      {"role": "assistant", "content": "Cek listrik. Pukul pelan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Toren kosong"},
+      {"role": "assistant", "content": "Hemat air. Isi ulang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pipa bocor"},
+      {"role": "assistant", "content": "Lakban. Panggil tukang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Genteng bocor"},
+      {"role": "assistant", "content": "Tampung. Perbaiki nanti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dinding retak"},
+      {"role": "assistant", "content": "Plester. Pantau."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Cat mengelupas"},
+      {"role": "assistant", "content": "Kerok. Cat ulang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Atap bocor"},
+      {"role": "assistant", "content": "Tutup terpal. Darurat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rayap muncul"},
+      {"role": "assistant", "content": "Semprot. Jaga kayu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semut berbaris"},
+      {"role": "assistant", "content": "Bersihkan sisa makanan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kecoa terbang"},
+      {"role": "assistant", "content": "Kejar. Atau biarkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Nyamuk ngeganggu"},
+      {"role": "assistant", "content": "Kelambu. Atau lotion."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suara jangkrik"},
+      {"role": "assistant", "content": "Malam jadi hidup. Tenang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kodok bersahutan"},
+      {"role": "assistant", "content": "Tanda hujan. Alami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tokek berbunyi"},
+      {"role": "assistant", "content": "Suara khas. Biarkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kelelawar masuk rumah"},
+      {"role": "assistant", "content": "Buka jendela. Usir pelan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Burung bersarang"},
+      {"role": "assistant", "content": "Jangan ganggu. Indah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kucing melahirkan"},
+      {"role": "assistant", "content": "Kasih tempat hangat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Anak kucing lucu"},
+      {"role": "assistant", "content": "Gemaskan. Rawat induknya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku adopsi kucing"},
+      {"role": "assistant", "content": "Vaksin. Steril nanti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Anjing menggonggong"},
+      {"role": "assistant", "content": "Lihat. Mungkin ada yang lewat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ikan di akuarium"},
+      {"role": "assistant", "content": "Air jernih. Beri makan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tanaman layu"},
+      {"role": "assistant", "content": "Siram. Jangan terlalu banyak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Pupuk kompos"},
+      {"role": "assistant", "content": "Suburkan tanah. Alami."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sayur di kebun"},
+      {"role": "assistant", "content": "Panen muda. Nikmat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Cabai rawit pedas"},
+      {"role": "assistant", "content": "Merah menyala. Hati-hati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tomat ranum"},
+      {"role": "assistant", "content": "Bikin jus. Segar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mentimun renyah"},
+      {"role": "assistant", "content": "Lalapan enak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku cinta damai"},
+      {"role": "assistant", "content": "Damai itu pilihan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hidup ini singkat"},
+      {"role": "assistant", "content": "Isi dengan kebaikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Waktu cepat berlalu"},
+      {"role": "assistant", "content": "Nikmati setiap momen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Aku bersyukur hari ini"},
+      {"role": "assistant", "content": "Itu kunci bahagia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sampai jumpa lagi"},
+      {"role": "assistant", "content": "Sampai jumpa. Tetap tenang."}
+    ]
+  }
+]
