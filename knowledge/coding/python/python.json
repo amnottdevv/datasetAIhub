@@ -1,0 +1,854 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Python?"},
+      {"role": "assistant", "content": "Bahasa pemrograman tingkat tinggi, mudah dibaca. Dipakai untuk web, data science, AI, dan automasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara print di Python?"},
+      {"role": "assistant", "content": "Gunakan fungsi print(). Contoh: print('Halo Dunia')"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu variabel di Python?"},
+      {"role": "assistant", "content": "Nama yang menyimpan nilai. Contoh: x = 5. Python tidak perlu deklarasi tipe data."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tipe data apa saja yang ada di Python?"},
+      {"role": "assistant", "content": "int (bilangan bulat), float (desimal), str (teks), bool (True/False), list, tuple, dict, set."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat list?"},
+      {"role": "assistant", "content": "Gunakan kurung siku. Contoh: buah = ['apel', 'jeruk', 'mangga']"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa bedanya list dan tuple?"},
+      {"role": "assistant", "content": "List bisa diubah (mutable), tuple tidak (immutable). List pakai [], tuple pakai ()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat dictionary?"},
+      {"role": "assistant", "content": "Gunakan kurung kurawal dengan pasangan kunci:nilai. Contoh: siswa = {'nama': 'Budi', 'umur': 20}"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat fungsi?"},
+      {"role": "assistant", "content": "Gunakan def. Contoh: def sapa(nama): return 'Halo ' + nama"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu if statement?"},
+      {"role": "assistant", "content": "Percabangan kondisi. if x > 5: print('besar') elif x == 5: print('sama') else: print('kecil')"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara looping di Python?"},
+      {"role": "assistant", "content": "Gunakan for atau while. for i in range(5): print(i) atau while x < 10: x += 1"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu range()?"},
+      {"role": "assistant", "content": "Fungsi menghasilkan deret angka. range(5) menghasilkan 0,1,2,3,4. range(2,6) menghasilkan 2,3,4,5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengambil input dari user?"},
+      {"role": "assistant", "content": "Gunakan input(). Contoh: nama = input('Masukkan nama: '). Hasilnya selalu string."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara import module?"},
+      {"role": "assistant", "content": "Gunakan import. Contoh: import math. Lalu math.sqrt(16) untuk akar kuadrat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pip?"},
+      {"role": "assistant", "content": "Package manager Python. Digunakan untuk menginstall library: pip install nama_library"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membaca file di Python?"},
+      {"role": "assistant", "content": "Gunakan open(). with open('file.txt', 'r') as f: isi = f.read()"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menulis ke file?"},
+      {"role": "assistant", "content": "Gunakan open() dengan mode 'w'. with open('file.txt', 'w') as f: f.write('Halo')"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu string formatting?"},
+      {"role": "assistant", "content": "Cara menyisipkan variabel ke string. f-string: f'Halo {nama}'. Atau format(): 'Halo {}'.format(nama)"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengubah string menjadi integer?"},
+      {"role": "assistant", "content": "Gunakan int(). Contoh: int('123') menghasilkan 123. Error jika string bukan angka."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu list comprehension?"},
+      {"role": "assistant", "content": "Cara singkat membuat list. [x**2 for x in range(5)] menghasilkan [0,1,4,9,16]"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menangani error?"},
+      {"role": "assistant", "content": "Gunakan try-except. try: x = 1/0 except ZeroDivisionError: print('Tidak bisa bagi nol')"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu None?"},
+      {"role": "assistant", "content": "Nilai kosong di Python. Menandakan tidak ada nilai. Fungsi tanpa return mengembalikan None."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek tipe data?"},
+      {"role": "assistant", "content": "Gunakan type(). type(5) menghasilkan <class 'int'>. type('halo') menghasilkan <class 'str'>."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu lambda?"},
+      {"role": "assistant", "content": "Fungsi anonim satu baris. Contoh: kali = lambda x, y: x * y. kali(2,3) menghasilkan 6."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengurutkan list?"},
+      {"role": "assistant", "content": "Gunakan sort() (mengubah list asli) atau sorted() (mengembalikan list baru). sorted([3,1,2]) -> [1,2,3]"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu slice?"},
+      {"role": "assistant", "content": "Cara mengambil sebagian sequence. teks[0:5] mengambil karakter indeks 0-4. list[::2] melompat 2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menggabungkan dua list?"},
+      {"role": "assistant", "content": "Gunakan operator +. [1,2] + [3,4] menghasilkan [1,2,3,4]. Atau extend(): a.extend(b)"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu set?"},
+      {"role": "assistant", "content": "Koleksi elemen unik, tidak berurutan. Gunakan {}. Tidak bisa diakses dengan indeks."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menghapus duplikat dari list?"},
+      {"role": "assistant", "content": "Ubah ke set lalu kembali ke list. list(set([1,1,2,2,3])) menghasilkan [1,2,3]"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa perbedaan == dan is?"},
+      {"role": "assistant", "content": "== membandingkan nilai. is membandingkan identitas (apakah objek sama di memori)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat kelas?"},
+      {"role": "assistant", "content": "Gunakan class. class Mobil: def __init__(self, warna): self.warna = warna"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu self?"},
+      {"role": "assistant", "content": "Referensi ke instance kelas itu sendiri. Parameter pertama dalam method kelas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu inheritance?"},
+      {"role": "assistant", "content": "Pewarisan. Kelas anak mewarisi sifat kelas induk. class Kucing(Hewan): pass"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara install Python?"},
+      {"role": "assistant", "content": "Download dari python.org. Centang 'Add Python to PATH'. Atau via Anaconda untuk data science."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu virtual environment?"},
+      {"role": "assistant", "content": "Lingkungan Python terisolasi. Dibuat dengan python -m venv nama_env. Aktifkan: source nama_env/bin/activate"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek versi Python?"},
+      {"role": "assistant", "content": "Di terminal: python --version atau python -V. Menampilkan versi yang terinstall."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu comment di Python?"},
+      {"role": "assistant", "content": "Keterangan yang tidak dieksekusi. Single line: # ini komentar. Multi line: tiga tanda kutip."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menghitung panjang string atau list?"},
+      {"role": "assistant", "content": "Gunakan len(). len('halo') = 4. len([1,2,3]) = 3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu boolean?"},
+      {"role": "assistant", "content": "Tipe data True atau False. Hasil dari operasi perbandingan: 5 > 3 menghasilkan True."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Operator logika di Python?"},
+      {"role": "assistant", "content": "and, or, not. (5>3) and (2<4) = True. not True = False."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengubah string ke lower case?"},
+      {"role": "assistant", "content": "Gunakan method lower(). 'HALO'.lower() menghasilkan 'halo'. upper() untuk sebaliknya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu strip()?"},
+      {"role": "assistant", "content": "Menghapus spasi di awal dan akhir string. ' halo '.strip() menghasilkan 'halo'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengganti substring?"},
+      {"role": "assistant", "content": "Gunakan replace(). 'halo dunia'.replace('dunia', 'semua') menghasilkan 'halo semua'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu split()?"},
+      {"role": "assistant", "content": "Memecah string menjadi list berdasarkan pemisah. 'a,b,c'.split(',') menghasilkan ['a','b','c']."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara join list menjadi string?"},
+      {"role": "assistant", "content": "Gunakan join(). ','.join(['a','b','c']) menghasilkan 'a,b,c'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu enumerate()?"},
+      {"role": "assistant", "content": "Fungsi memberi indeks pada iterasi. for i, item in enumerate(['a','b']): print(i, item)"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu zip()?"},
+      {"role": "assistant", "content": "Menggabungkan dua iterable. zip([1,2],['a','b']) menghasilkan [(1,'a'),(2,'b')]."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek apakah key ada di dictionary?"},
+      {"role": "assistant", "content": "Gunakan in. 'nama' in siswa. Atau siswa.get('nama', 'tidak ada')."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa perbedaan append dan extend pada list?"},
+      {"role": "assistant", "content": "append menambah satu elemen. extend menambah banyak elemen dari iterable. a.append([3]) vs a.extend([3])."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menghapus elemen list?"},
+      {"role": "assistant", "content": "remove() hapus berdasarkan nilai. pop() hapus berdasarkan indeks. del list[0] juga bisa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pass?"},
+      {"role": "assistant", "content": "Statement kosong. Digunakan sebagai placeholder saat sintaks butuh isi tapi belum ada kode."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menyalin list?"},
+      {"role": "assistant", "content": "list.copy() atau list[:]. Jangan pakai = karena itu hanya referensi, bukan salinan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu global variable?"},
+      {"role": "assistant", "content": "Variabel di luar fungsi. Untuk mengubahnya di dalam fungsi, gunakan keyword global."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menggunakan modul random?"},
+      {"role": "assistant", "content": "import random. random.randint(1,10) untuk angka acak. random.choice(list) untuk memilih acak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu datetime?"},
+      {"role": "assistant", "content": "Modul untuk bekerja dengan tanggal dan waktu. from datetime import datetime. datetime.now() untuk waktu sekarang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara pause di Python?"},
+      {"role": "assistant", "content": "Gunakan time.sleep(). import time. time.sleep(2) akan jeda 2 detik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu JSON di Python?"},
+      {"role": "assistant", "content": "Format data. import json. json.loads() untuk baca string JSON. json.dumps() untuk ubah ke string."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menggunakan requests?"},
+      {"role": "assistant", "content": "Library HTTP. import requests. r = requests.get('url'). r.json() untuk response JSON."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu decorator?"},
+      {"role": "assistant", "content": "Fungsi yang memodifikasi fungsi lain. Ditulis dengan @ di atas fungsi. Contoh: @staticmethod, @property."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membaca CSV?"},
+      {"role": "assistant", "content": "Gunakan modul csv atau pandas. import csv; with open('data.csv') as f: reader = csv.reader(f)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pip freeze?"},
+      {"role": "assistant", "content": "Perintah menampilkan semua library terinstall beserta versinya. pip freeze > requirements.txt untuk simpan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menjalankan script Python?"},
+      {"role": "assistant", "content": "Di terminal: python nama_file.py. Atau python3 nama_file.py di macOS/Linux."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu __name__ == '__main__'?"},
+      {"role": "assistant", "content": "Cara mengecek apakah script dijalankan langsung atau diimport. Jika langsung, blok ini dieksekusi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara looping dictionary?"},
+      {"role": "assistant", "content": "for kunci, nilai in dict.items(): print(kunci, nilai). Atau for kunci in dict: print(kunci, dict[kunci])."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu default parameter?"},
+      {"role": "assistant", "content": "Parameter dengan nilai default. def sapa(nama='teman'): print(f'Halo {nama}')."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menghitung jumlah kemunculan di list?"},
+      {"role": "assistant", "content": "Gunakan count(). [1,2,1,1,3].count(1) menghasilkan 3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu any() dan all()?"},
+      {"role": "assistant", "content": "any() True jika minimal satu True. all() True jika semua True. any([False,True,False]) = True."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara reverse list?"},
+      {"role": "assistant", "content": "list.reverse() mengubah asli. list[::-1] menghasilkan list baru terbalik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu *args dan **kwargs?"},
+      {"role": "assistant", "content": "*args untuk banyak argumen posisi. **kwargs untuk banyak argumen kata kunci. Fleksibel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menjumlahkan semua elemen list?"},
+      {"role": "assistant", "content": "Gunakan sum(). sum([1,2,3,4]) menghasilkan 10."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu min() dan max()?"},
+      {"role": "assistant", "content": "Mencari nilai terkecil dan terbesar. min([3,1,5]) = 1. max([3,1,5]) = 5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek tipe data dengan isinstance?"},
+      {"role": "assistant", "content": "isinstance(5, int) menghasilkan True. isinstance('halo', str) = True."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu multiline string?"},
+      {"role": "assistant", "content": "String yang lebih dari satu baris. Gunakan tiga kutip: '''baris1\nbaris2'''."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara hapus file?"},
+      {"role": "assistant", "content": "Gunakan os.remove(). import os; os.remove('file.txt'). Hati-hati, tidak bisa undo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu os module?"},
+      {"role": "assistant", "content": "Modul untuk berinteraksi dengan sistem operasi. os.listdir(), os.getcwd(), os.path."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek apakah file exists?"},
+      {"role": "assistant", "content": "Gunakan os.path.exists(). os.path.exists('file.txt') mengembalikan True atau False."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu recursion?"},
+      {"role": "assistant", "content": "Fungsi yang memanggil dirinya sendiri. Harus ada base case agar tidak infinite loop."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Contoh fungsi rekursif sederhana?"},
+      {"role": "assistant", "content": "Faktorial. def faktorial(n): return 1 if n <= 1 else n * faktorial(n-1)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menggunakan map()?"},
+      {"role": "assistant", "content": "Menerapkan fungsi ke setiap elemen iterable. list(map(str.upper, ['a','b'])) -> ['A','B']."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu filter()?"},
+      {"role": "assistant", "content": "Menyaring elemen yang memenuhi kondisi. list(filter(lambda x: x>3, [1,4,2,5])) -> [4,5]."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek string mengandung substring?"},
+      {"role": "assistant", "content": "Gunakan in. 'dunia' in 'halo dunia' menghasilkan True."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu index()?"},
+      {"role": "assistant", "content": "Mencari indeks pertama elemen di list. [10,20,30].index(20) = 1. Error jika tidak ditemukan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara generate random number?"},
+      {"role": "assistant", "content": "import random. random.random() untuk 0-1. random.randint(1,100) untuk integer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu math module?"},
+      {"role": "assistant", "content": "Modul fungsi matematika. math.sqrt(25)=5. math.pi=3.14. math.ceil(3.2)=4."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat program GUI sederhana?"},
+      {"role": "assistant", "content": "Gunakan tkinter. import tkinter as tk. window = tk.Tk(). window.mainloop()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu NoneType?"},
+      {"role": "assistant", "content": "Tipe data dari None. Hanya punya satu nilai: None. Menandakan tidak ada nilai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara format angka desimal?"},
+      {"role": "assistant", "content": "f-string: f'{3.14159:.2f}' -> '3.14'. Atau round(3.14159, 2)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ternary operator?"},
+      {"role": "assistant", "content": "If-else satu baris. x = 5 if kondisi else 10. 'lulus' if nilai >= 70 else 'gagal'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengeksekusi perintah shell?"},
+      {"role": "assistant", "content": "Gunakan subprocess. import subprocess; subprocess.run(['ls', '-l'])."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu type hinting?"},
+      {"role": "assistant", "content": "Petunjuk tipe data. def tambah(a: int, b: int) -> int: return a + b. Tidak wajib."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara debugging di Python?"},
+      {"role": "assistant", "content": "Gunakan print() sederhana. Atau modul pdb: import pdb; pdb.set_trace()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu unit testing?"},
+      {"role": "assistant", "content": "Menguji fungsi secara otomatis. import unittest. Buat kelas turunan unittest.TestCase."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menggunakan API?"},
+      {"role": "assistant", "content": "Gunakan requests. response = requests.get('url_api'). data = response.json()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu iterator?"},
+      {"role": "assistant", "content": "Objek yang bisa diiterasi. Punya method __next__(). iter([1,2,3]) membuat iterator dari list."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu generator?"},
+      {"role": "assistant", "content": "Fungsi yang menghasilkan nilai satu per satu dengan yield. Lebih hemat memori."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengukur waktu eksekusi?"},
+      {"role": "assistant", "content": "Gunakan time.time(). Mulai = time.time(); kode(); selesai = time.time() - mulai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pep8?"},
+      {"role": "assistant", "content": "Panduan gaya penulisan kode Python. Indentasi 4 spasi, max 79 karakter per baris."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara sort dictionary by value?"},
+      {"role": "assistant", "content": "sorted(d.items(), key=lambda x: x[1]). Menghasilkan list tuple terurut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu shallow copy dan deep copy?"},
+      {"role": "assistant", "content": "Shallow: salin struktur luar, referensi dalam tetap sama. Deep: salin semua termasuk nested."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Counter?"},
+      {"role": "assistant", "content": "Dari collections. Menghitung frekuensi elemen. Counter([1,1,2,2,2]) -> {1:2, 2:3}."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat executable dari Python?"},
+      {"role": "assistant", "content": "Gunakan PyInstaller. pip install pyinstaller. pyinstaller --onefile script.py."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek memory usage?"},
+      {"role": "assistant", "content": "Gunakan sys.getsizeof(). import sys; sys.getsizeof('halo'). Untuk objek besar pakai pympler."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu context manager?"},
+      {"role": "assistant", "content": "Objek yang mendefinisikan __enter__ dan __exit__. with statement menggunakannya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara run Python dari command line arguments?"},
+      {"role": "assistant", "content": "Gunakan sys.argv. import sys; print(sys.argv[1])."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu regex?"},
+      {"role": "assistant", "content": "Regular Expression. import re. re.search(r'\\d+', 'abc123') untuk mencari angka."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengirim email dengan Python?"},
+      {"role": "assistant", "content": "Gunakan smtplib. import smtplib. Buat koneksi ke server SMTP lalu kirim."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu asyncio?"},
+      {"role": "assistant", "content": "Library untuk asynchronous programming. async def dan await. Untuk I/O non-blocking."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat web server sederhana?"},
+      {"role": "assistant", "content": "http.server bawaan. python -m http.server 8000. Sajikan folder saat ini di port 8000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu flask?"},
+      {"role": "assistant", "content": "Micro web framework Python. from flask import Flask. app = Flask(__name__)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat API dengan flask?"},
+      {"role": "assistant", "content": "@app.route('/api', methods=['GET']). def api(): return {'data': 'hasil'}. Jalankan app.run()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu django?"},
+      {"role": "assistant", "content": "Web framework Python skala besar. Full-stack dengan ORM, admin panel, authentication."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menggunakan SQLite di Python?"},
+      {"role": "assistant", "content": "Gunakan sqlite3. import sqlite3. conn = sqlite3.connect('db.sqlite3'). cursor = conn.cursor()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pandas?"},
+      {"role": "assistant", "content": "Library data analysis. DataFrames untuk manipulasi data tabular. import pandas as pd."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat DataFrame pandas?"},
+      {"role": "assistant", "content": "pd.DataFrame({'nama': ['Budi','Ani'], 'umur': [20,22]})."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu numpy?"},
+      {"role": "assistant", "content": "Library komputasi numerik. Array multidimensi cepat. import numpy as np."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat array numpy?"},
+      {"role": "assistant", "content": "np.array([1,2,3]). np.zeros((2,3)) untuk array nol. np.arange(10) untuk range."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu matplotlib?"},
+      {"role": "assistant", "content": "Library visualisasi data. import matplotlib.pyplot as plt. plt.plot(x, y). plt.show()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara install Jupyter Notebook?"},
+      {"role": "assistant", "content": "pip install notebook. Jalankan dengan jupyter notebook. Untuk coding interaktif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu selenium?"},
+      {"role": "assistant", "content": "Library automasi browser. Untuk testing web atau scraping dinamis. from selenium import webdriver."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara scraping web dengan Python?"},
+      {"role": "assistant", "content": "Gunakan requests + BeautifulSoup. pip install beautifulsoup4. Parsing HTML."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek versi library?"},
+      {"role": "assistant", "content": "library.__version__. Atau pip show nama_library."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu poetry?"},
+      {"role": "assistant", "content": "Dependency manager Python. Alternatif pip. Menggunakan pyproject.toml."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara format datetime?"},
+      {"role": "assistant", "content": "datetime.now().strftime('%d-%m-%Y %H:%M:%S') -> '16-07-2024 14:30:00'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu dotenv?"},
+      {"role": "assistant", "content": "Library baca file .env. Simpan variabel lingkungan. from dotenv import load_dotenv."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara handle CSV besar?"},
+      {"role": "assistant", "content": "Gunakan pandas dengan chunksize. pd.read_csv('file.csv', chunksize=1000). Diproses bertahap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu selenium webdriver?"},
+      {"role": "assistant", "content": "Untuk mengendalikan browser otomatis. from selenium import webdriver. driver = webdriver.Chrome()."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara upload file dengan requests?"},
+      {"role": "assistant", "content": "files = {'file': open('file.txt', 'rb')}. requests.post(url, files=files)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu yield?"},
+      {"role": "assistant", "content": "Keyword untuk membuat generator. Mengembalikan nilai tanpa mengakhiri fungsi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menghapus key dari dictionary?"},
+      {"role": "assistant", "content": "del dict['key']. Atau dict.pop('key') yang mengembalikan nilai yang dihapus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu literal?"},
+      {"role": "assistant", "content": "Nilai mentah yang ditulis langsung di kode. 5 (int), 'halo' (str), [1,2] (list), True (bool)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengetahui keyword Python?"},
+      {"role": "assistant", "content": "import keyword; print(keyword.kwlist). Menampilkan semua keyword reserved."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara cek direktori kerja?"},
+      {"role": "assistant", "content": "os.getcwd(). Menampilkan path direktori saat ini."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pip list?"},
+      {"role": "assistant", "content": "Perintah menampilkan semua package terinstall. pip list --outdated untuk lihat yang perlu update."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menghentikan loop?"},
+      {"role": "assistant", "content": "Gunakan break untuk keluar loop. continue untuk lompat ke iterasi berikutnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu truthiness?"},
+      {"role": "assistant", "content": "Nilai yang dianggap True atau False dalam konteks boolean. 0, '', [], {} adalah False."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat program hitung kata?"},
+      {"role": "assistant", "content": "teks.split() lalu len(). Atau Counter(teks.split()) untuk frekuensi per kata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu karakter escape?"},
+      {"role": "assistant", "content": "Karakter khusus diawali backslash. \n (baris baru), \t (tab), \\ (backslash)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membuat palindrome checker?"},
+      {"role": "assistant", "content": "def palindrome(s): return s == s[::-1]. palindrome('kodok') -> True."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu module?"},
+      {"role": "assistant", "content": "File Python berisi kode yang bisa diimport. Setiap file .py adalah module."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara menjalankan kode Python online?"},
+      {"role": "assistant", "content": "Google Colab, Replit, atau Python.org shell. Tidak perlu install."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Zen of Python?"},
+      {"role": "assistant", "content": "Prinsip desain Python. import this untuk melihatnya. 'Simple is better than complex.'"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara mengambil ekstensi file?"},
+      {"role": "assistant", "content": "os.path.splitext('file.txt')[1] -> '.txt'. Atau pathlib.Path('file.txt').suffix."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu underscore di Python?"},
+      {"role": "assistant", "content": "_ untuk variabel sementara. _variable protected. __variable private. __dunder__ magic method."}
+    ]
+  }
+]
