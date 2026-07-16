@@ -1,0 +1,2318 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gravitasi?"},
+      {"role": "assistant", "content": "Gaya tarik-menarik antara dua benda bermassa. Di Bumi, gravitasi memberi berat pada objek dan menjaga atmosfer tetap di tempatnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa Marie Curie?"},
+      {"role": "assistant", "content": "Ilmuwan Polandia-Prancis yang meneliti radioaktivitas. Pemenang Nobel Fisika (1903) dan Kimia (1911), penemu polonium dan radium."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kapilaritas?"},
+      {"role": "assistant", "content": "Fenomena naik atau turunnya cairan dalam pipa sempit akibat gaya kohesi dan adhesi. Contoh: air naik di batang tanaman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa luas wilayah Indonesia?"},
+      {"role": "assistant", "content": "Sekitar 1,9 juta km² daratan dan 3,2 juta km² lautan. Total lebih dari 5 juta km², termasuk ZEE."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mitokondria?"},
+      {"role": "assistant", "content": "Organel sel yang berfungsi sebagai pembangkit energi (ATP) melalui respirasi seluler. Memiliki DNA sendiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu teori relativitas?"},
+      {"role": "assistant", "content": "Teori Einstein: relativitas khusus (1905) menyatakan kecepatan cahaya konstan; relativitas umum (1915) menjelaskan gravitasi sebagai kelengkungan ruang-waktu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ikatan kovalen?"},
+      {"role": "assistant", "content": "Ikatan kimia akibat pemakaian bersama pasangan elektron antar atom. Contoh: H₂O, CO₂."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penemu komputer?"},
+      {"role": "assistant", "content": "Charles Babbage merancang Analytical Engine (1837). Alan Turing mengembangkan konsep mesin universal. Komputer elektronik pertama ENIAC (1945)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pH?"},
+      {"role": "assistant", "content": "Ukuran keasaman atau kebasaan larutan, skala 0-14. pH < 7 asam, pH = 7 netral, pH > 7 basa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu efek Doppler?"},
+      {"role": "assistant", "content": "Perubahan frekuensi gelombang akibat gerak relatif sumber dan pengamat. Contoh: sirine ambulans berubah nada saat mendekat/menjauh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa ibu kota Mesir?"},
+      {"role": "assistant", "content": "Kairo. Kota terbesar di Afrika dan Timur Tengah, dekat delta Sungai Nil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu dekomposer?"},
+      {"role": "assistant", "content": "Organisme pengurai sisa makhluk hidup, seperti bakteri dan jamur. Mengembalikan nutrisi ke tanah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu planet katai?"},
+      {"role": "assistant", "content": "Benda langit mirip planet tapi belum membersihkan orbitnya. Contoh: Pluto, Eris, Ceres."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa pelukis Mona Lisa?"},
+      {"role": "assistant", "content": "Leonardo da Vinci, seniman dan ilmuwan Renaisans Italia. Lukisan Mona Lisa dibuat sekitar 1503-1506."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kalimat efektif?"},
+      {"role": "assistant", "content": "Kalimat yang singkat, jelas, dan mudah dipahami, sesuai kaidah bahasa. Hemat kata, tidak ambigu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu nitrogen?"},
+      {"role": "assistant", "content": "Unsur kimia gas dengan simbol N, nomor atom 7. Menyusun 78% atmosfer Bumi. Penting untuk protein dan DNA."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fosil?"},
+      {"role": "assistant", "content": "Sisa atau jejak makhluk hidup purba yang terawetkan dalam batuan. Usianya bisa jutaan tahun. Bukti evolusi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Revolusi Perancis?"},
+      {"role": "assistant", "content": "Pemberontakan rakyat Perancis melawan monarki absolut (1789-1799). Slogan: Liberté, Égalité, Fraternité."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa fungsi klorofil?"},
+      {"role": "assistant", "content": "Pigmen hijau pada tumbuhan yang menyerap cahaya matahari untuk fotosintesis. Terdapat di kloroplas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu siklus air?"},
+      {"role": "assistant", "content": "Proses perputaran air: evaporasi, kondensasi, presipitasi, infiltrasi, dan aliran permukaan. Menjaga keseimbangan air Bumi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu teks prosedur?"},
+      {"role": "assistant", "content": "Teks yang berisi langkah-langkah untuk melakukan sesuatu. Contoh: resep masakan, petunjuk penggunaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu zona waktu?"},
+      {"role": "assistant", "content": "Pembagian wilayah Bumi berdasarkan garis bujur, setiap 15° berbeda 1 jam. Indonesia punya 3 zona: WIB, WITA, WIT."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gempa bumi?"},
+      {"role": "assistant", "content": "Getaran permukaan Bumi akibat pergerakan lempeng tektonik atau aktivitas vulkanik. Diukur dengan skala Richter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu magnet bumi?"},
+      {"role": "assistant", "content": "Medan magnet yang melindungi Bumi dari angin matahari. Dihasilkan oleh pergerakan inti besi cair."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sel surya?"},
+      {"role": "assistant", "content": "Alat yang mengubah energi cahaya matahari langsung menjadi listrik melalui efek fotovoltaik. Material utamanya silikon."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu politik?"},
+      {"role": "assistant", "content": "Proses pembuatan kebijakan dan distribusi kekuasaan dalam masyarakat. Mencakup pemerintahan, partai, dan partisipasi warga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sastra?"},
+      {"role": "assistant", "content": "Karya seni berbasis bahasa yang mengungkapkan pikiran, perasaan, dan imajinasi. Termasuk puisi, prosa, dan drama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu benua?"},
+      {"role": "assistant", "content": "Massa daratan luas di Bumi. Ada 7: Asia, Afrika, Amerika Utara, Amerika Selatan, Antartika, Eropa, Australia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa Nabi dalam Islam yang terakhir?"},
+      {"role": "assistant", "content": "Nabi Muhammad SAW. Dipercaya sebagai penutup para nabi, lahir di Mekah sekitar 570 M."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hak cipta?"},
+      {"role": "assistant", "content": "Perlindungan hukum atas karya cipta (buku, musik, software). Memberi hak eksklusif kepada pencipta untuk menggunakan dan menyebarkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu eutrofikasi?"},
+      {"role": "assistant", "content": "Kesuburan air berlebihan akibat limpasan nutrisi (pupuk). Menyebabkan ledakan alga dan kematian masal organisme air."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu osmosis?"},
+      {"role": "assistant", "content": "Perpindahan air melalui membran semipermeabel dari larutan encer ke pekat. Penting dalam sel hidup."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kalor?"},
+      {"role": "assistant", "content": "Energi panas yang berpindah akibat perbedaan suhu. Satuan: joule atau kalori."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bunyi?"},
+      {"role": "assistant", "content": "Gelombang mekanik longitudinal yang merambat melalui medium. Kecepatan di udara 343 m/s."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cahaya?"},
+      {"role": "assistant", "content": "Gelombang elektromagnetik yang dapat dilihat mata. Memiliki dualisme sebagai partikel (foton) dan gelombang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu listrik statis?"},
+      {"role": "assistant", "content": "Akumulasi muatan listrik pada permukaan benda akibat ketidakseimbangan elektron. Contoh: penggaris plastik menggosok rambut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi nuklir?"},
+      {"role": "assistant", "content": "Energi yang dilepaskan dari inti atom melalui reaksi fisi (pemecahan) atau fusi (penggabungan). Digunakan untuk listrik atau senjata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu suksesi?"},
+      {"role": "assistant", "content": "Proses perubahan ekosistem dari komunitas pionir ke klimaks. Contoh: lahan kosong menjadi hutan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu enzim?"},
+      {"role": "assistant", "content": "Protein yang berperan sebagai katalis biologis. Mempercepat reaksi kimia tanpa ikut berubah. Contoh: amilase di ludah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu atmosfer planet?"},
+      {"role": "assistant", "content": "Lapisan gas yang menyelimuti planet. Komposisi berbeda: Venus (CO2), Bumi (N2, O2), Mars (CO2 tipis)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu lemak?"},
+      {"role": "assistant", "content": "Senyawa lipid sumber energi cadangan, pelarut vitamin A, D, E, K. Ada lemak jenuh dan tak jenuh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu protein?"},
+      {"role": "assistant", "content": "Makromolekul dari asam amino, berperan sebagai enzim, struktural, transport, antibodi. Sumber: daging, kacang-kacangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu karbohidrat?"},
+      {"role": "assistant", "content": "Senyawa organik sumber energi utama. Terdiri dari monosakarida (glukosa), disakarida, dan polisakarida (pati, selulosa)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu vitamin D?"},
+      {"role": "assistant", "content": "Vitamin larut lemak yang penting untuk penyerapan kalsium dan kesehatan tulang. Diproduksi kulit saat terpapar sinar matahari."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu anemia?"},
+      {"role": "assistant", "content": "Kondisi kekurangan sel darah merah atau hemoglobin. Gejala: lelah, pucat. Sering akibat defisiensi zat besi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mutasi?"},
+      {"role": "assistant", "content": "Perubahan urutan DNA. Bisa disebabkan radiasi, virus, atau kesalahan replikasi. Sumber variasi genetik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu evolusi?"},
+      {"role": "assistant", "content": "Perubahan sifat populasi sepanjang generasi melalui seleksi alam, mutasi, dan aliran gen. Teori Darwin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu spesies?"},
+      {"role": "assistant", "content": "Kelompok makhluk hidup yang dapat saling kawin dan menghasilkan keturunan fertil. Unit dasar klasifikasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu habitat?"},
+      {"role": "assistant", "content": "Tempat tinggal alami makhluk hidup. Setiap spesies punya habitat spesifik yang menyediakan makanan, air, dan perlindungan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ekologi?"},
+      {"role": "assistant", "content": "Ilmu tentang interaksi makhluk hidup dengan sesama dan lingkungan. Cabang: populasi, komunitas, ekosistem."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gelombang elektromagnetik?"},
+      {"role": "assistant", "content": "Gelombang yang tidak butuh medium, terdiri dari medan listrik dan magnetik. Spektrum: radio, mikro, inframerah, cahaya tampak, UV, X-ray, gamma."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu radar?"},
+      {"role": "assistant", "content": "Radio Detection and Ranging. Mengirim gelombang radio dan mendeteksi pantulannya untuk menentukan posisi dan kecepatan objek."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sonar?"},
+      {"role": "assistant", "content": "Sound Navigation and Ranging. Menggunakan gelombang suara bawah air untuk navigasi, komunikasi, atau deteksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu satelit?"},
+      {"role": "assistant", "content": "Benda yang mengorbit benda langit lebih besar. Bisa alami (Bulan) atau buatan (komunikasi, cuaca, GPS)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu asteroid?"},
+      {"role": "assistant", "content": "Benda batuan atau logam di tata surya, lebih kecil dari planet. Mayoritas di sabuk asteroid antara Mars dan Jupiter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu komet?"},
+      {"role": "assistant", "content": "Bola es dan debu yang mengelilingi Matahari. Saat mendekat, membentuk ekor bercahaya. Contoh: Komet Halley."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu meteor?"},
+      {"role": "assistant", "content": "Benda langit yang memasuki atmosfer Bumi dan terbakar, tampak sebagai bintang jatuh. Jika sampai ke tanah disebut meteorit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu korona matahari?"},
+      {"role": "assistant", "content": "Lapisan terluar atmosfer Matahari, terlihat saat gerhana total. Suhunya jutaan derajat, lebih panas dari permukaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fotosfer?"},
+      {"role": "assistant", "content": "Permukaan Matahari yang kita lihat. Suhu sekitar 5.500°C. Bintik matahari muncul di sini."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu angin?"},
+      {"role": "assistant", "content": "Udara bergerak akibat perbedaan tekanan. Angin skala besar: pasat, muson. Lokal: angin darat, angin laut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu badai?"},
+      {"role": "assistant", "content": "Sistem cuaca ekstrem dengan angin kencang dan hujan lebat. Siklon tropis di Samudra Hindia disebut siklon, di Atlantik disebut hurikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu tornado?"},
+      {"role": "assistant", "content": "Kolom angin berputar sangat kencang dari awan badai ke permukaan. Kecepatan bisa > 400 km/jam. Sering terjadi di AS."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu iklim?"},
+      {"role": "assistant", "content": "Pola cuaca jangka panjang suatu wilayah (minimal 30 tahun). Indonesia beriklim tropis dengan dua musim."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cuaca?"},
+      {"role": "assistant", "content": "Kondisi atmosfer jangka pendek (jam ke hari): suhu, kelembapan, curah hujan, angin. Bisa berubah cepat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gunung api?"},
+      {"role": "assistant", "content": "Gunung yang terbentuk dari letusan material magma. Indonesia punya 127 gunung api aktif, bagian Ring of Fire."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu magma?"},
+      {"role": "assistant", "content": "Batuan cair di bawah permukaan Bumi. Saat keluar ke permukaan disebut lava. Komposisi silikat kaya gas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu lempeng tektonik?"},
+      {"role": "assistant", "content": "Potongan kerak Bumi yang bergerak di atas mantel. Interaksinya menyebabkan gempa, gunung api, dan pembentukan pegunungan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stratovulkan?"},
+      {"role": "assistant", "content": "Gunung api berbentuk kerucut curam dengan lapisan lava dan abu. Contoh: Merapi, Semeru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu erosi?"},
+      {"role": "assistant", "content": "Pengikisan permukaan tanah atau batuan oleh air, angin, atau es. Diperparah deforestasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sedimentasi?"},
+      {"role": "assistant", "content": "Proses pengendapan material hasil erosi di tempat baru. Membentuk delta, gumuk pasir, atau batuan sedimen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stalaktit?"},
+      {"role": "assistant", "content": "Formasi mineral yang menggantung di langit-langit gua, terbentuk dari tetesan air kaya kalsium karbonat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stalagmit?"},
+      {"role": "assistant", "content": "Formasi mineral yang tumbuh ke atas dari lantai gua, pasangan stalaktit. Bertemu membentuk kolom."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi panas bumi?"},
+      {"role": "assistant", "content": "Energi dari panas dalam Bumi. Digunakan untuk listrik (geothermal). Indonesia potensi 40% cadangan dunia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pasir?"},
+      {"role": "assistant", "content": "Butiran batuan berukuran 0,0625-2 mm. Komposisi umum kuarsa. Terbentuk dari pelapukan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu tanah?"},
+      {"role": "assistant", "content": "Lapisan permukaan Bumi tempat tumbuh tanaman. Tersusun dari mineral, organik, air, udara. Jenis: humus, lempung, pasir."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu humus?"},
+      {"role": "assistant", "content": "Bahan organik hasil dekomposisi yang menyuburkan tanah. Gelap, remah, kaya hara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pupuk?"},
+      {"role": "assistant", "content": "Zat untuk menyuburkan tanaman: organik (kompos, kandang) dan anorganik (NPK, urea)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hidroponik?"},
+      {"role": "assistant", "content": "Teknik budidaya tanaman tanpa tanah, menggunakan larutan nutrisi air. Hemat air dan lahan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu aeroponik?"},
+      {"role": "assistant", "content": "Sistem tanam dengan akar menggantung di udara dan diberi kabut nutrisi. Lebih efisien dari hidroponik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kultivar?"},
+      {"role": "assistant", "content": "Varietas tanaman hasil seleksi atau pemuliaan dengan sifat unggul tertentu. Contoh: padi IR64."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pelangi?"},
+      {"role": "assistant", "content": "Fenomena optik pembiasan dan pemantulan cahaya matahari oleh tetesan air hujan, membentuk spektrum warna (mejikuhibiniu)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu halo matahari?"},
+      {"role": "assistant", "content": "Lingkaran cahaya mengelilingi matahari akibat pembiasan kristal es di awan tinggi. Pertanda cuaca berubah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fatamorgana?"},
+      {"role": "assistant", "content": "Ilusi optik akibat pembiasan cahaya karena gradien suhu udara. Sering terlihat seperti genangan air di jalan panas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu prisma?"},
+      {"role": "assistant", "content": "Benda transparan dengan permukaan bersudut yang membiaskan cahaya. Dapat menguraikan cahaya putih menjadi spektrum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fotometer?"},
+      {"role": "assistant", "content": "Alat mengukur intensitas cahaya. Digunakan dalam fotografi, astronomi, dan laboratorium."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu teleskop?"},
+      {"role": "assistant", "content": "Alat optik untuk mengamati benda langit. Jenis: refraktor (lensa), reflektor (cermin). Hubble adalah teleskop luar angkasa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mikroskop?"},
+      {"role": "assistant", "content": "Alat untuk melihat objek sangat kecil. Mikroskop cahaya perbesaran hingga 1000x; elektron hingga jutaan kali."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sel?"},
+      {"role": "assistant", "content": "Unit terkecil kehidupan. Semua makhluk hidup tersusun dari sel. Membran, inti, sitoplasma adalah komponen utama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu jaringan?"},
+      {"role": "assistant", "content": "Kumpulan sel sejenis dengan fungsi sama. Contoh: jaringan otot, jaringan saraf, jaringan epitel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu organ?"},
+      {"role": "assistant", "content": "Kumpulan berbagai jaringan yang menjalankan fungsi spesifik. Contoh: jantung (otot + saraf + katup)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sistem organ?"},
+      {"role": "assistant", "content": "Beberapa organ yang bekerja sama. Contoh: sistem pencernaan (mulut, lambung, usus) mencerna makanan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hormon insulin?"},
+      {"role": "assistant", "content": "Hormon dari pankreas yang menurunkan kadar glukosa darah. Kekurangan menyebabkan diabetes melitus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu neuron?"},
+      {"role": "assistant", "content": "Sel saraf yang menghantarkan impuls listrik. Terdiri dari dendrit, badan sel, akson. Jumlahnya miliaran di otak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sinapsis?"},
+      {"role": "assistant", "content": "Celah antar dua neuron tempat impuls dihantarkan melalui neurotransmitter. Dasar komunikasi saraf."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu refleks?"},
+      {"role": "assistant", "content": "Respons otomatis dan cepat terhadap rangsangan tanpa perintah otak sadar. Contoh: lutut diketuk, mata berkedip."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pankreas?"},
+      {"role": "assistant", "content": "Kelenjar ganda: eksokrin menghasilkan enzim pencernaan; endokrin menghasilkan insulin dan glukagon."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hati?"},
+      {"role": "assistant", "content": "Organ terbesar dalam tubuh, fungsi detoksifikasi, produksi empedu, metabolisme, penyimpanan vitamin dan glikogen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ginjal?"},
+      {"role": "assistant", "content": "Organ penyaring darah, menghasilkan urin, mengatur keseimbangan air dan elektrolit, serta tekanan darah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu lambung?"},
+      {"role": "assistant", "content": "Organ pencernaan yang mencerna makanan secara mekanik dan kimiawi (asam lambung, enzim pepsin)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu usus halus?"},
+      {"role": "assistant", "content": "Tempat utama penyerapan nutrisi. Terdiri dari duodenum, jejunum, ileum. Permukaannya berlipat-lipat (vili)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu usus besar?"},
+      {"role": "assistant", "content": "Menyerap air dan elektrolit, membentuk feses. Tempat mikroflora usus. Panjang sekitar 1,5 meter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hemoglobin?"},
+      {"role": "assistant", "content": "Protein dalam sel darah merah pengikat oksigen dan karbon dioksida. Mengandung zat besi, memberi warna merah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kolesterol?"},
+      {"role": "assistant", "content": "Lemak steroid penting untuk membran sel dan hormon. Ada LDL (jahat) dan HDL (baik). Tinggi LDL risiko penyakit jantung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hipertensi?"},
+      {"role": "assistant", "content": "Tekanan darah tinggi kronis >140/90 mmHg. Faktor risiko: garam, stres, obesitas. Dapat menyebabkan stroke."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu diabetes?"},
+      {"role": "assistant", "content": "Gangguan metabolisme gula darah akibat kekurangan insulin atau resistensi. Tipe 1 autoimun, tipe 2 gaya hidup."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu asma?"},
+      {"role": "assistant", "content": "Penyakit peradangan saluran napas kronis yang menyebabkan sesak, batuk, dan mengi. Dipicu alergi atau olahraga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu migrain?"},
+      {"role": "assistant", "content": "Sakit kepala berdenyut sebelah, bisa disertai mual dan sensitif cahaya. Berkaitan dengan perubahan pembuluh darah otak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu flu?"},
+      {"role": "assistant", "content": "Infeksi virus influenza pada saluran pernapasan. Gejala: demam, pilek, batuk, nyeri otot. Bisa dicegah vaksin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu COVID-19?"},
+      {"role": "assistant", "content": "Penyakit akibat virus SARS-CoV-2, menyebar lewat droplet. Menyebabkan pandemi global sejak 2020. Vaksin tersedia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu vaksin mRNA?"},
+      {"role": "assistant", "content": "Vaksin yang menggunakan materi genetik (mRNA) untuk menginstruksikan sel memproduksi protein virus, memicu respons imun. Contoh: Pfizer, Moderna."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu epidemi?"},
+      {"role": "assistant", "content": "Wabah penyakit yang menyebar cepat di wilayah tertentu. Lebih luas jadi pandemi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu epidemiologi?"},
+      {"role": "assistant", "content": "Ilmu yang mempelajari distribusi dan determinan penyakit dalam populasi. Dasar kebijakan kesehatan publik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kuman?"},
+      {"role": "assistant", "content": "Mikroorganisme penyebab penyakit: bakteri, virus, jamur, protozoa. Tidak semua mikroorganisme adalah kuman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu antibiotik?"},
+      {"role": "assistant", "content": "Obat untuk melawan infeksi bakteri. Tidak efektif untuk virus. Penggunaan berlebihan menyebabkan resistensi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu antiseptik?"},
+      {"role": "assistant", "content": "Zat yang membunuh atau menghambat mikroorganisme pada jaringan hidup. Contoh: alkohol, yodium povidon."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu anestesi?"},
+      {"role": "assistant", "content": "Obat atau teknik menghilangkan sensasi, terutama nyeri, selama operasi. Bisa lokal, regional, atau umum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kemoterapi?"},
+      {"role": "assistant", "content": "Penggunaan obat sitotoksik untuk membunuh sel kanker. Bekerja dengan menghambat pembelahan sel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu radioterapi?"},
+      {"role": "assistant", "content": "Terapi kanker menggunakan radiasi pengion untuk merusak DNA sel kanker. Bisa eksternal atau internal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu imunoterapi?"},
+      {"role": "assistant", "content": "Perawatan yang merangsang sistem imun untuk melawan penyakit, terutama kanker. Contoh: checkpoint inhibitors."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stroke?"},
+      {"role": "assistant", "content": "Gangguan aliran darah otak mendadak: sumbatan (iskemik) atau pecah pembuluh (hemoragik). Gejala: lumpuh separuh, bicara pelo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu autisme?"},
+      {"role": "assistant", "content": "Gangguan perkembangan saraf yang mempengaruhi komunikasi, interaksi sosial, dan perilaku. Spektrum luas, bukan penyakit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu depresi?"},
+      {"role": "assistant", "content": "Gangguan mental serius dengan perasaan sedih berkepanjangan, kehilangan minat, dan gangguan tidur. Butuh penanganan profesional."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bipolar?"},
+      {"role": "assistant", "content": "Gangguan suasana hati dengan episode manik (sangat bersemangat) dan depresif. Dikelola dengan obat dan terapi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu skizofrenia?"},
+      {"role": "assistant", "content": "Gangguan jiwa berat dengan halusinasi, delusi, dan pikiran kacau. Butuh pengobatan jangka panjang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu psikoterapi?"},
+      {"role": "assistant", "content": "Perawatan kesehatan mental melalui percakapan dengan profesional. Jenis: kognitif-perilaku (CBT), psikoanalisis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu meditasi transendental?"},
+      {"role": "assistant", "content": "Teknik meditasi dengan pengulangan mantra untuk mencapai kesadaran murni. Dipopulerkan Maharishi Mahesh Yogi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu yoga?"},
+      {"role": "assistant", "content": "Disiplin fisik dan mental dari India kuno. Meliputi postur (asana), pernapasan (pranayama), dan meditasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pilates?"},
+      {"role": "assistant", "content": "Latihan fisik fokus pada kekuatan inti, fleksibilitas, dan postur. Dikembangkan Joseph Pilates awal abad 20."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kafein?"},
+      {"role": "assistant", "content": "Alkaloid stimulan alami dalam kopi, teh, cokelat. Memblokir adenosin, meningkatkan kewaspadaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu nikotin?"},
+      {"role": "assistant", "content": "Senyawa adiktif dalam tembakau. Merangsang pelepasan dopamin. Penyebab utama kecanduan rokok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu alkohol?"},
+      {"role": "assistant", "content": "Dalam minuman, etanol. Depresan sistem saraf pusat. Konsumsi berlebihan merusak hati dan otak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu narkotika?"},
+      {"role": "assistant", "content": "Zat yang mempengaruhi kesadaran, dapat menyebabkan ketergantungan. Golongan I (ganja, heroin) paling berbahaya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu psikotropika?"},
+      {"role": "assistant", "content": "Obat atau zat yang mempengaruhi fungsi mental dan perilaku. Contoh: amfetamin, ekstasi. Diatur ketat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu rehabilitasi?"},
+      {"role": "assistant", "content": "Proses pemulihan fungsi fisik atau mental setelah cedera, sakit, atau kecanduan. Melibatkan terapi multidisiplin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu WHO?"},
+      {"role": "assistant", "content": "World Health Organization, badan PBB untuk kesehatan internasional. Berkantor di Jenewa, Swiss."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu BPJS?"},
+      {"role": "assistant", "content": "Badan Penyelenggara Jaminan Sosial Indonesia. Menyelenggarakan jaminan kesehatan (KIS) dan ketenagakerjaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu UNESCO?"},
+      {"role": "assistant", "content": "Organisasi PBB untuk Pendidikan, Ilmu Pengetahuan, dan Kebudayaan. Menetapkan warisan dunia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu UNICEF?"},
+      {"role": "assistant", "content": "Dana Anak-Anak PBB, fokus pada hak anak, kesehatan, dan pendidikan di negara berkembang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu OPEC?"},
+      {"role": "assistant", "content": "Organization of the Petroleum Exporting Countries. Organisasi negara pengekspor minyak, mengatur produksi dan harga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu NATO?"},
+      {"role": "assistant", "content": "North Atlantic Treaty Organization. Aliansi militer negara-negara Atlantik Utara, berdiri 1949 untuk pertahanan kolektif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu PBB?"},
+      {"role": "assistant", "content": "Perserikatan Bangsa-Bangsa. Organisasi internasional yang didirikan 1945 untuk perdamaian dan kerjasama global."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu IMF?"},
+      {"role": "assistant", "content": "International Monetary Fund. Lembaga keuangan global yang menjaga stabilitas moneter dan memberikan pinjaman pada negara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu World Bank?"},
+      {"role": "assistant", "content": "Bank Dunia, memberikan pinjaman untuk proyek pembangunan di negara berkembang. Fokus mengurangi kemiskinan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu G20?"},
+      {"role": "assistant", "content": "Kelompok 20 ekonomi terbesar dunia, membahas stabilitas keuangan global. Indonesia anggota dan pernah presidensi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu APEC?"},
+      {"role": "assistant", "content": "Asia-Pacific Economic Cooperation. Forum kerjasama ekonomi 21 negara di lingkar Pasifik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu MEA?"},
+      {"role": "assistant", "content": "Masyarakat Ekonomi ASEAN, integrasi ekonomi negara-negara ASEAN. Membuka arus barang, jasa, tenaga kerja."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu inflasi?"},
+      {"role": "assistant", "content": "Kenaikan harga umum barang dan jasa secara terus-menerus. Diukur dengan Indeks Harga Konsumen (IHK)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu deflasi?"},
+      {"role": "assistant", "content": "Penurunan harga umum. Terdengar bagus tapi bisa memperlambat ekonomi karena orang menunda belanja."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu resesi?"},
+      {"role": "assistant", "content": "Penurunan aktivitas ekonomi signifikan selama minimal dua kuartal berturut-turut. Ciri: PDB negatif, pengangguran naik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu depresi ekonomi?"},
+      {"role": "assistant", "content": "Resesi parah dan berkepanjangan. Contoh: Great Depression 1929-1939 di AS, berdampak global."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu PDB?"},
+      {"role": "assistant", "content": "Produk Domestik Bruto. Total nilai produksi barang dan jasa suatu negara dalam setahun. Indikator utama ekonomi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu indeks harga konsumen?"},
+      {"role": "assistant", "content": "Ukuran perubahan harga sekelompok barang/jasa yang dikonsumsi rumah tangga. Dasar perhitungan inflasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu neraca perdagangan?"},
+      {"role": "assistant", "content": "Selisih ekspor dan impor. Surplus jika ekspor > impor, defisit jika sebaliknya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kurs?"},
+      {"role": "assistant", "content": "Nilai tukar mata uang satu negara terhadap lainnya. Contoh: USD/IDR. Dipengaruhi pasar dan kebijakan moneter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu devisa?"},
+      {"role": "assistant", "content": "Simpanan mata uang asing oleh bank sentral. Digunakan untuk pembayaran internasional."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu obligasi?"},
+      {"role": "assistant", "content": "Surat utang diterbitkan pemerintah atau perusahaan. Investor dapat kupon (bunga) berkala dan pokok saat jatuh tempo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu saham?"},
+      {"role": "assistant", "content": "Tanda kepemilikan perusahaan. Pemegang saham berhak atas dividen dan capital gain jika harga naik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu reksadana?"},
+      {"role": "assistant", "content": "Wadah investasi kolektif. Dana dari banyak investor dikelola manajer investasi ke saham, obligasi, atau pasar uang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fintech?"},
+      {"role": "assistant", "content": "Financial technology. Inovasi teknologi di layanan keuangan: pinjaman online, e-wallet, robo-advisor."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu e-commerce?"},
+      {"role": "assistant", "content": "Perdagangan elektronik: jual beli online melalui platform seperti Shopee, Tokopedia. Tumbuh pesat di Indonesia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu dompet digital?"},
+      {"role": "assistant", "content": "Aplikasi penyimpan uang elektronik: GoPay, OVO, Dana. Bisa untuk pembayaran, transfer, dan investasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu QRIS?"},
+      {"role": "assistant", "content": "Quick Response Code Indonesian Standard. Standar kode QR pembayaran nasional yang menyatukan berbagai dompet digital."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu startup?"},
+      {"role": "assistant", "content": "Perusahaan rintisan berbasis inovasi, biasanya di bidang teknologi. Bertumbuh cepat, contoh Gojek, Tokopedia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu unicorn?"},
+      {"role": "assistant", "content": "Startup dengan valuasi di atas 1 miliar dolar AS. Indonesia punya beberapa, termasuk Gojek dan Traveloka."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu decacorn?"},
+      {"role": "assistant", "content": "Startup dengan valuasi di atas 10 miliar dolar AS. Contoh: GoTo (Gojek-Tokopedia)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kewirausahaan?"},
+      {"role": "assistant", "content": "Proses menciptakan bisnis baru dengan mengambil risiko dan inovasi. Termasuk UKM hingga startup teknologi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pemasaran digital?"},
+      {"role": "assistant", "content": "Promosi produk melalui saluran digital: media sosial, email, SEO, iklan berbayar. Lebih terukur dan luas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu SEO?"},
+      {"role": "assistant", "content": "Search Engine Optimization. Teknik agar website muncul di peringkat atas hasil pencarian organik Google."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu SEM?"},
+      {"role": "assistant", "content": "Search Engine Marketing. Iklan berbayar di mesin pencari, biasanya bayar per klik (PPC)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu big data?"},
+      {"role": "assistant", "content": "Data berukuran sangat besar, beragam, dan tumbuh cepat. Dianalisis untuk pola, tren, dan keputusan bisnis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu machine learning?"},
+      {"role": "assistant", "content": "Cabang AI di mana komputer belajar dari data tanpa diprogram eksplisit. Menggunakan algoritma seperti regresi, neural network."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu deep learning?"},
+      {"role": "assistant", "content": "Subset machine learning dengan jaringan saraf berlapis banyak (deep neural networks). Andal untuk pengenalan gambar dan suara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu AI?"},
+      {"role": "assistant", "content": "Artificial Intelligence. Simulasi kecerdasan manusia oleh mesin. Meliputi pemrosesan bahasa alami, computer vision, robotika."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu NLP?"},
+      {"role": "assistant", "content": "Natural Language Processing. Kemampuan komputer memahami, menginterpretasi, dan menghasilkan bahasa manusia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu chatbot?"},
+      {"role": "assistant", "content": "Program simulasi percakapan manusia. Ada berbasis aturan dan AI. Contoh: layanan pelanggan otomatis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu IoT?"},
+      {"role": "assistant", "content": "Internet of Things. Jaringan perangkat fisik terhubung internet, seperti sensor, kamera, lampu pintar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu 5G?"},
+      {"role": "assistant", "content": "Generasi kelima jaringan seluler. Kecepatan sangat tinggi, latency rendah. Mendukung IoT, kendaraan otonom."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cloud computing?"},
+      {"role": "assistant", "content": "Komputasi awan. Menyimpan dan mengakses data/program lewat internet, bukan hard disk lokal. Contoh: AWS, Google Cloud."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu VPN?"},
+      {"role": "assistant", "content": "Virtual Private Network. Koneksi terenkripsi melalui internet untuk keamanan dan privasi, atau mengakses konten terbatas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu malware?"},
+      {"role": "assistant", "content": "Malicious software. Perangkat lunak berbahaya: virus, trojan, ransomware. Dapat mencuri data atau merusak sistem."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu firewall?"},
+      {"role": "assistant", "content": "Sistem keamanan jaringan yang memonitor dan mengontrol lalu lintas berdasarkan aturan keamanan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu enkripsi?"},
+      {"role": "assistant", "content": "Mengubah data menjadi kode rahasia untuk mencegah akses tidak sah. Hanya yang punya kunci bisa membacanya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu blockchain?"},
+      {"role": "assistant", "content": "Buku besar digital terdesentralisasi, aman, transparan. Setiap blok data terhubung dan tidak bisa diubah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu NFT?"},
+      {"role": "assistant", "content": "Non-Fungible Token. Aset digital unik di blockchain, mewakili kepemilikan karya seni, musik, atau item koleksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu metaverse?"},
+      {"role": "assistant", "content": "Ruang virtual 3D persisten di mana pengguna berinteraksi melalui avatar. Menggabungkan AR, VR, blockchain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu augmented reality?"},
+      {"role": "assistant", "content": "AR. Meng-overlay konten digital ke dunia nyata. Contoh: filter Instagram, Pokemon GO."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu virtual reality?"},
+      {"role": "assistant", "content": "VR. Simulasi komputer lingkungan tiga dimensi yang imersif, biasanya menggunakan headset."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hologram?"},
+      {"role": "assistant", "content": "Gambar tiga dimensi terbentuk dari interferensi cahaya. Bisa dilihat tanpa kacamata khusus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu drone?"},
+      {"role": "assistant", "content": "Pesawat tanpa awak yang dikendalikan jarak jauh atau otonom. Digunakan untuk fotografi, pertanian, militer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu robot?"},
+      {"role": "assistant", "content": "Mesin otomatis yang dapat melakukan tugas fisik, diprogram atau berbasis AI. Ada robot industri, layanan, humanoid."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kendaraan listrik?"},
+      {"role": "assistant", "content": "Kendaraan yang digerakkan motor listrik, baterai isi ulang. Nol emisi knalpot. Contoh: Tesla, Wuling Air ev."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mobil otonom?"},
+      {"role": "assistant", "content": "Mobil yang dapat mengemudi sendiri tanpa input manusia. Menggunakan sensor, kamera, AI."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hyperloop?"},
+      {"role": "assistant", "content": "Konsep transportasi kapsul berkecepatan tinggi dalam tabung vakum. Kecepatan hingga 1.200 km/jam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pesawat supersonik?"},
+      {"role": "assistant", "content": "Pesawat yang bisa melebihi kecepatan suara (>1.235 km/jam). Concorde adalah contoh komersial yang sudah pensiun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stasiun luar angkasa?"},
+      {"role": "assistant", "content": "Struktur buatan manusia di orbit Bumi untuk penelitian. ISS (Stasiun Luar Angkasa Internasional) adalah yang terbesar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu teleskop James Webb?"},
+      {"role": "assistant", "content": "Teleskop luar angkasa inframerah terbesar, penerus Hubble. Diluncurkan 2021, mengamati alam semesta awal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Mars Rover?"},
+      {"role": "assistant", "content": "Robot penjelajah di Mars. Terbaru: Perseverance (NASA) dan Zhurong (CNSA). Mencari tanda kehidupan purba."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu event horizon?"},
+      {"role": "assistant", "content": "Batas lubang hitam di mana kecepatan lepas melebihi kecepatan cahaya. Tidak ada yang bisa kembali setelah melewatinya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu supernova?"},
+      {"role": "assistant", "content": "Ledakan bintang masif di akhir hidupnya. Menghasilkan elemen berat dan bisa menyamai cahaya seluruh galaksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu quasar?"},
+      {"role": "assistant", "content": "Inti galaksi aktif yang sangat terang akibat lubang hitam supermasif yang mengonsumsi materi di sekitarnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pulsar?"},
+      {"role": "assistant", "content": "Bintang neutron yang berotasi cepat, memancarkan pulsa radiasi berkala. Presisi seperti jam kosmik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu planet ekstrasurya?"},
+      {"role": "assistant", "content": "Planet di luar tata surya. Ribuan telah ditemukan, beberapa di zona layak huni."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu exoplanet Proxima b?"},
+      {"role": "assistant", "content": "Planet seukuran Bumi di zona layak huni Proxima Centauri, bintang terdekat Matahari (4,2 tahun cahaya)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Oort Cloud?"},
+      {"role": "assistant", "content": "Awan hipotetis benda es di ujung tata surya, sumber komet periode panjang. Jarak hingga 1 tahun cahaya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Sabuk Kuiper?"},
+      {"role": "assistant", "content": "Cincin benda es di luar Neptunus, rumah Pluto dan objek trans-Neptunus lain. Lebih dekat dari Oort Cloud."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu atmosfer Mars?"},
+      {"role": "assistant", "content": "Tipis, 95% CO2. Tekanan permukaan <1% Bumi. Tidak bisa menopang air cair di permukaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Great Red Spot?"},
+      {"role": "assistant", "content": "Badai raksasa di Jupiter, berlangsung ratusan tahun. Lebih besar dari Bumi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cincin Saturnus?"},
+      {"role": "assistant", "content": "Terbentuk dari es dan batu. Terbagi menjadi beberapa cincin utama (A, B, C). Sangat tipis dibanding lebarnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bulan?"},
+      {"role": "assistant", "content": "Satelit alami yang mengorbit planet. Bumi punya satu bulan; Jupiter dan Saturnus punya puluhan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gravitasi bulan?"},
+      {"role": "assistant", "content": "1/6 gravitasi Bumi. Itu sebabnya astronot bisa melompat tinggi di permukaan bulan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Apollo 11?"},
+      {"role": "assistant", "content": "Misi NASA yang mendaratkan manusia pertama di Bulan, 20 Juli 1969. Neil Armstrong dan Buzz Aldrin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Yuri Gagarin?"},
+      {"role": "assistant", "content": "Kosmonot Soviet, manusia pertama di luar angkasa (12 April 1961). Mengorbit Bumi dengan Vostok 1."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu SpaceX?"},
+      {"role": "assistant", "content": "Perusahaan antariksa swasta Elon Musk. Misi: mengurangi biaya perjalanan luar angkasa, kolonisasi Mars."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Blue Origin?"},
+      {"role": "assistant", "content": "Perusahaan antariksa Jeff Bezos. Fokus pada wisata suborbital dan pengembangan roket New Glenn."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Artemis?"},
+      {"role": "assistant", "content": "Program NASA untuk mengembalikan manusia ke Bulan pada 2025, termasuk pendaratan perempuan pertama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ISS?"},
+      {"role": "assistant", "content": "Stasiun Luar Angkasa Internasional. Laboratorium orbit yang dihuni astronot sejak 2000. Kolaborasi multinasional."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu wahana voyager?"},
+      {"role": "assistant", "content": "Misi NASA (1977): Voyager 1 dan 2 menjelajah planet luar. Sekarang di ruang antarbintang, membawa pesan Golden Record."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Golden Record?"},
+      {"role": "assistant", "content": "Cakram emas berisi suara, gambar, dan musik Bumi, dikirim bersama Voyager untuk peradaban asing."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu SETI?"},
+      {"role": "assistant", "content": "Search for Extraterrestrial Intelligence. Proyek ilmiah mencari sinyal radio dari peradaban cerdas di luar Bumi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Fermi Paradox?"},
+      {"role": "assistant", "content": "Kontradiksi antara probabilitas tinggi kehidupan alien dan minimnya bukti. 'Di mana semua orang?' tanya Enrico Fermi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Dyson Sphere?"},
+      {"role": "assistant", "content": "Megastruktur hipotetis yang mengelilingi bintang untuk menangkap energinya. Ide dari Freeman Dyson."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Singularitas Teknologi?"},
+      {"role": "assistant", "content": "Titik hipotetis di masa depan saat AI melampaui kecerdasan manusia dan memicu perubahan tak terduga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Kloning?"},
+      {"role": "assistant", "content": "Proses menghasilkan individu identik secara genetik. Domba Dolly (1996) mamalia pertama hasil kloning dewasa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu CRISPR?"},
+      {"role": "assistant", "content": "Teknologi pengeditan gen yang memungkinkan perubahan DNA secara presisi. Revolusi di bidang bioteknologi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi fusi?"},
+      {"role": "assistant", "content": "Energi dari penggabungan inti atom ringan (deuterium-tritium), menjanjikan energi bersih tanpa limbah radioaktif panjang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ITER?"},
+      {"role": "assistant", "content": "International Thermonuclear Experimental Reactor. Proyek reaktor fusi di Prancis, kolaborasi 35 negara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Large Hadron Collider?"},
+      {"role": "assistant", "content": "Akselerator partikel terbesar di CERN. Menemukan Higgs boson (2012). Menabrakkan proton pada kecepatan mendekati cahaya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Higgs Boson?"},
+      {"role": "assistant", "content": "Partikel fundamental yang memberi massa pada partikel lain. Dijuluki 'Partikel Tuhan'. Konfirmasi model standar fisika."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu antimateri?"},
+      {"role": "assistant", "content": "Materi dengan muatan berlawanan dari partikel biasa. Saat bertemu materi, musnah menjadi energi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gelombang gravitasi?"},
+      {"role": "assistant", "content": "Riakan ruang-waktu yang diprediksi Einstein. Pertama terdeteksi LIGO 2015 dari tabrakan dua lubang hitam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu spektroskopi?"},
+      {"role": "assistant", "content": "Metode menganalisis interaksi materi dan radiasi. Untuk mengetahui komposisi bintang dan galaksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pH tanah?"},
+      {"role": "assistant", "content": "Tingkat keasaman tanah. Mempengaruhi ketersediaan hara. Sebagian besar tanaman suka pH 6-7."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bioma?"},
+      {"role": "assistant", "content": "Komunitas ekologi besar dengan vegetasi dominan. Contoh: tundra, taiga, sabana, hutan hujan tropis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu korosi?"},
+      {"role": "assistant", "content": "Kerusakan logam akibat reaksi dengan lingkungan, terutama oksidasi. Karat pada besi contoh umum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu polimer?"},
+      {"role": "assistant", "content": "Molekul besar dari unit berulang (monomer). Plastik (polietilen), protein, DNA adalah polimer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu katalis?"},
+      {"role": "assistant", "content": "Zat yang mempercepat reaksi kimia tanpa habis. Enzim adalah biokatalis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu larutan buffer?"},
+      {"role": "assistant", "content": "Larutan penyangga yang menjaga pH stabil meski ditambah asam atau basa. Penting di darah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu indeks bias?"},
+      {"role": "assistant", "content": "Ukuran seberapa lambat cahaya merambat dalam suatu medium. Semakin tinggi, semakin besar pembelokan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kemagnetan?"},
+      {"role": "assistant", "content": "Fenomena fisik terkait medan magnet. Bahan feromagnetik dapat dimagnetisasi (besi, nikel)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu rangkaian listrik?"},
+      {"role": "assistant", "content": "Jalur tertutup tempat arus listrik mengalir. Komponen: sumber, penghantar, beban. Seri atau paralel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu perbedaan arus AC dan DC?"},
+      {"role": "assistant", "content": "AC: arus bolak-balik (listrik rumah). DC: arus searah (baterai). AC bisa ditransmisikan jauh dengan trafo."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu semikonduktor?"},
+      {"role": "assistant", "content": "Bahan dengan konduktivitas antara konduktor dan isolator. Silikon paling umum. Dasar mikrochip."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu transistor?"},
+      {"role": "assistant", "content": "Komponen semikonduktor untuk menguatkan atau menyaklar sinyal elektronik. Blok bangunan mikroprosesor."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hukum Moore?"},
+      {"role": "assistant", "content": "Pengamatan bahwa jumlah transistor di sirkuit terintegrasi berlipat ganda setiap 2 tahun. Melambat akhir-akhir ini."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mikroprosesor?"},
+      {"role": "assistant", "content": "Unit pemrosesan pusat (CPU) dalam satu chip. Otak komputer. Intel 4004 (1971) adalah yang pertama komersial."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu GPU?"},
+      {"role": "assistant", "content": "Graphics Processing Unit. Prosesor khusus untuk render grafis dan komputasi paralel. Penting untuk gaming dan AI."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu RAM?"},
+      {"role": "assistant", "content": "Random Access Memory. Memori sementara untuk data yang sedang diproses. Cepat, tapi hilang saat mati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu SSD?"},
+      {"role": "assistant", "content": "Solid State Drive. Penyimpanan berbasis flash tanpa komponen bergerak. Jauh lebih cepat dari hard disk tradisional."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sistem operasi?"},
+      {"role": "assistant", "content": "Perangkat lunak yang mengelola perangkat keras dan menyediakan layanan untuk aplikasi. Contoh: Windows, Linux, Android."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu open source?"},
+      {"role": "assistant", "content": "Perangkat lunak dengan kode sumber terbuka, bisa dimodifikasi dan disebarluaskan. Contoh: Linux, Mozilla Firefox."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Linux?"},
+      {"role": "assistant", "content": "Sistem operasi open source berbasis kernel Linux. Populer di server, pengembang, dan Android."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu algoritma Dijkstra?"},
+      {"role": "assistant", "content": "Algoritma untuk mencari jalur terpendek dalam graf. Digunakan di navigasi GPS."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sorting?"},
+      {"role": "assistant", "content": "Pengurutan data dalam urutan tertentu (naik/turun). Algoritma: bubble sort, quick sort, merge sort."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu enkripsi AES?"},
+      {"role": "assistant", "content": "Advanced Encryption Standard. Standar enkripsi simetris untuk mengamankan data. Digunakan pemerintah AS."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu komputasi kuantum?"},
+      {"role": "assistant", "content": "Memanfaatkan qubit dan superposisi untuk komputasi. Potensi memecahkan masalah yang tidak bisa diselesaikan komputer klasik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Bitcoin?"},
+      {"role": "assistant", "content": "Mata uang kripto pertama, desentralisasi, peer-to-peer. Transaksi diverifikasi oleh penambang (mining)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ethereum?"},
+      {"role": "assistant", "content": "Blockchain dengan smart contract. Mendukung aplikasi terdesentralisasi (dApps). Kriptonya bernama Ether."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu smart contract?"},
+      {"role": "assistant", "content": "Kontrak digital yang dieksekusi otomatis saat kondisi terpenuhi di blockchain. Tidak perlu perantara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu DeFi?"},
+      {"role": "assistant", "content": "Decentralized Finance. Layanan keuangan di blockchain tanpa bank tradisional. Pinjaman, tabungan, perdagangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu staking?"},
+      {"role": "assistant", "content": "Mengunci kripto untuk mendukung operasi blockchain dan mendapatkan imbalan. Alternatif mining."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu token?"},
+      {"role": "assistant", "content": "Aset digital di blockchain. Bisa mewakili utilitas, keamanan, atau aset dunia nyata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu airdrop?"},
+      {"role": "assistant", "content": "Distribusi gratis token atau koin untuk mempromosikan proyek kripto. Kadang perlu tugas tertentu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pajak kripto?"},
+      {"role": "assistant", "content": "Kewajiban pajak atas keuntungan transaksi aset kripto. Di Indonesia, dikenakan PPh final 0,1%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu peretasan?"},
+      {"role": "assistant", "content": "Akses tidak sah ke sistem komputer. Bisa untuk kriminal (black hat) atau pengujian keamanan (white hat)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu phishing?"},
+      {"role": "assistant", "content": "Upaya penipuan dengan menyamar sebagai entitas terpercaya untuk mencuri informasi sensitif. Lewat email atau situs palsu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ransomware?"},
+      {"role": "assistant", "content": "Malware yang mengenkripsi data korban dan meminta tebusan. Bisa dicegah dengan backup rutin."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu DDoS?"},
+      {"role": "assistant", "content": "Distributed Denial of Service. Serangan membanjiri server dengan trafik palsu hingga tidak bisa diakses."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sosial engineering?"},
+      {"role": "assistant", "content": "Manipulasi psikologis agar seseorang memberikan informasi rahasia. Lebih efektif daripada peretasan teknis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu proteksi data?"},
+      {"role": "assistant", "content": "Praktik melindungi informasi pribadi dari akses tidak sah. Regulasi: GDPR (Eropa), UU PDP (Indonesia)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu UU ITE?"},
+      {"role": "assistant", "content": "Undang-Undang Informasi dan Transaksi Elektronik Indonesia. Mengatur kejahatan siber, privasi, dan transaksi digital."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hak digital?"},
+      {"role": "assistant", "content": "Hak asasi manusia di era digital: akses internet, privasi, kebebasan berekspresi online."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu etika AI?"},
+      {"role": "assistant", "content": "Prinsip moral dalam pengembangan dan penggunaan AI: keadilan, transparansi, akuntabilitas, dan menghindari bias."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bias algoritma?"},
+      {"role": "assistant", "content": "Kecenderungan sistem AI menghasilkan keputusan tidak adil akibat data latih yang bias atau desain yang cacat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu deepfake?"},
+      {"role": "assistant", "content": "Video atau audio sintetis hasil AI yang tampak asli. Dapat disalahgunakan untuk disinformasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fake news?"},
+      {"role": "assistant", "content": "Berita palsu yang disebarkan dengan sengaja. Motif: politik, clickbait, propaganda. Verifikasi dengan cek fakta."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hoax?"},
+      {"role": "assistant", "content": "Informasi bohong. Bisa berupa teks, gambar, video. Sering viral di media sosial."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu literasi digital?"},
+      {"role": "assistant", "content": "Kemampuan menggunakan teknologi digital secara cerdas, kritis, dan etis. Mencakup keamanan dan evaluasi informasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cybersecurity?"},
+      {"role": "assistant", "content": "Praktik melindungi sistem, jaringan, dan data dari serangan digital. Profesi yang makin dibutuhkan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu biometrik?"},
+      {"role": "assistant", "content": "Pengukuran karakteristik fisik (sidik jari, wajah, retina) untuk identifikasi. Digunakan untuk keamanan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu otentikasi dua faktor?"},
+      {"role": "assistant", "content": "2FA. Metode keamanan menggunakan dua cara berbeda untuk verifikasi identitas. Misal password + kode SMS."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cookies?"},
+      {"role": "assistant", "content": "File kecil yang disimpan situs web di perangkat pengguna. Untuk melacak sesi, preferensi, iklan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cache?"},
+      {"role": "assistant", "content": "Penyimpanan sementara data untuk akses lebih cepat. Browser cache mempercepat loading halaman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bandwidth?"},
+      {"role": "assistant", "content": "Kapasitas maksimum transfer data koneksi internet. Diukur dalam bps (bit per second). Makin besar makin cepat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu latency?"},
+      {"role": "assistant", "content": "Waktu tunda pengiriman data. Penting untuk gaming dan video call. Satellite internet punya latency tinggi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu IP address?"},
+      {"role": "assistant", "content": "Alamat numerik unik perangkat di jaringan. IPv4 (32-bit) makin habis, digantikan IPv6 (128-bit)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu DNS?"},
+      {"role": "assistant", "content": "Domain Name System. Menerjemahkan nama domain (google.com) ke alamat IP. Buku telepon internet."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu URL?"},
+      {"role": "assistant", "content": "Uniform Resource Locator. Alamat web unik. Struktur: protocol://domain/path."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu HTTP?"},
+      {"role": "assistant", "content": "HyperText Transfer Protocol. Aturan komunikasi antara browser dan server web. HTTPS versi aman dengan enkripsi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu HTML?"},
+      {"role": "assistant", "content": "HyperText Markup Language. Bahasa untuk membuat struktur halaman web. Menggunakan tag."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu CSS?"},
+      {"role": "assistant", "content": "Cascading Style Sheets. Mengatur tampilan dan layout halaman web. Warna, font, posisi elemen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu JavaScript?"},
+      {"role": "assistant", "content": "Bahasa pemrograman untuk interaktivitas web. Berjalan di browser. Node.js menjalankannya di server."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Python?"},
+      {"role": "assistant", "content": "Bahasa pemrograman tingkat tinggi yang mudah dibaca. Populer untuk data science, AI, web development."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Java?"},
+      {"role": "assistant", "content": "Bahasa pemrograman 'write once, run anywhere'. Banyak digunakan di aplikasi enterprise dan Android."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu C++?"},
+      {"role": "assistant", "content": "Bahasa pemrograman performa tinggi. Digunakan untuk game, sistem operasi, software embedded."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu PHP?"},
+      {"role": "assistant", "content": "Bahasa skrip server-side untuk pengembangan web. WordPress dibangun dengan PHP."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu SQL?"},
+      {"role": "assistant", "content": "Structured Query Language. Bahasa untuk mengelola database relasional. SELECT, INSERT, UPDATE, DELETE."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu NoSQL?"},
+      {"role": "assistant", "content": "Database non-relasional untuk data tidak terstruktur. MongoDB, Cassandra. Skalabilitas tinggi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu API?"},
+      {"role": "assistant", "content": "Application Programming Interface. Antarmuka yang memungkinkan dua aplikasi berkomunikasi. REST API populer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Git?"},
+      {"role": "assistant", "content": "Sistem kontrol versi terdistribusi. Melacak perubahan kode. GitHub dan GitLab adalah platform hosting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Agile?"},
+      {"role": "assistant", "content": "Metodologi pengembangan perangkat lunak iteratif dan kolaboratif. Scrum adalah framework Agile populer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu DevOps?"},
+      {"role": "assistant", "content": "Praktik menyatukan pengembangan dan operasi TI untuk siklus hidup aplikasi yang lebih cepat dan andal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Docker?"},
+      {"role": "assistant", "content": "Platform kontainerisasi. Membungkus aplikasi dan dependensinya dalam unit terisolasi yang portabel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Kubernetes?"},
+      {"role": "assistant", "content": "Sistem orkestrasi kontainer open source. Mengelola deployment, scaling, dan operasi kontainer secara otomatis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu serverless?"},
+      {"role": "assistant", "content": "Arsitektur cloud di mana penyedia mengelola server. Pengembang fokus pada kode. Contoh: AWS Lambda."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu CDN?"},
+      {"role": "assistant", "content": "Content Delivery Network. Jaringan server global yang mendistribusikan konten lebih cepat ke pengguna."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu web 3.0?"},
+      {"role": "assistant", "content": "Generasi internet berikutnya yang desentralisasi, berbasis blockchain, dan memberikan kontrol data kepada pengguna."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu dark web?"},
+      {"role": "assistant", "content": "Bagian internet yang tidak terindeks mesin pencari biasa. Perlu software khusus (Tor). Tidak semua ilegal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu etika lingkungan?"},
+      {"role": "assistant", "content": "Prinsip moral hubungan manusia dengan alam. Termasuk keberlanjutan, konservasi, dan tanggung jawab ekologis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu karbon netral?"},
+      {"role": "assistant", "content": "Kondisi di mana emisi karbon yang dilepas seimbang dengan yang diserap. Dicapai melalui pengurangan dan offset."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu jejak karbon?"},
+      {"role": "assistant", "content": "Total emisi gas rumah kaca yang dihasilkan individu, organisasi, atau produk. Diukur setara CO2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu daur ulang?"},
+      {"role": "assistant", "content": "Proses mengubah limbah menjadi bahan atau produk baru. Mengurangi konsumsi sumber daya alam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kompos?"},
+      {"role": "assistant", "content": "Pupuk organik hasil dekomposisi sisa makhluk hidup. Dapat dibuat dari sampah dapur."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi surya?"},
+      {"role": "assistant", "content": "Energi dari sinar matahari. Dikonversi menjadi listrik dengan panel fotovoltaik atau panas dengan kolektor termal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi angin?"},
+      {"role": "assistant", "content": "Energi kinetik angin diubah menjadi listrik oleh turbin angin. Salah satu energi terbarukan tercepat pertumbuhannya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi air?"},
+      {"role": "assistant", "content": "Hidroelektrik. Listrik dari aliran atau jatuhan air. Bendungan skala besar atau mikrohidro."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu biofuel?"},
+      {"role": "assistant", "content": "Bahan bakar dari biomassa (tumbuhan, alga). Bioetanol dari tebu, biodiesel dari kelapa sawit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi pasang surut?"},
+      {"role": "assistant", "content": "Energi dari pergerakan air laut karena pasang surut. Teknologi masih berkembang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu konservasi?"},
+      {"role": "assistant", "content": "Upaya perlindungan dan pengelolaan alam untuk mencegah kepunahan spesies dan kerusakan habitat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu spesies invasif?"},
+      {"role": "assistant", "content": "Spesies asing yang masuk ke ekosistem dan menimbulkan kerusakan. Contoh: eceng gondok di Indonesia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Cagar Alam?"},
+      {"role": "assistant", "content": "Kawasan konservasi dengan ekosistem khas, dilindungi untuk penelitian dan pelestarian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Taman Nasional?"},
+      {"role": "assistant", "content": "Kawasan pelestarian alam dengan ekosistem asli, dimanfaatkan untuk pendidikan, penelitian, dan wisata terbatas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hutan hujan tropis?"},
+      {"role": "assistant", "content": "Hutan dengan curah hujan tinggi, kelembaban, dan keanekaragaman hayati tertinggi di Bumi. Indonesia salah satu pusatnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu terumbu karang?"},
+      {"role": "assistant", "content": "Ekosistem laut dangkal yang terbentuk dari kalsium karbonat hewan karang. Indonesia merupakan pusat segitiga terumbu karang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mangrove?"},
+      {"role": "assistant", "content": "Hutan bakau di pesisir tropis. Melindungi pantai dari abrasi, tempat pemijahan biota laut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu abrasi?"},
+      {"role": "assistant", "content": "Pengikisan pantai oleh gelombang laut. Diperparah oleh hilangnya mangrove dan naiknya permukaan laut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu El Niño?"},
+      {"role": "assistant", "content": "Fenomena anomali suhu permukaan laut di Pasifik ekuator yang menyebabkan kekeringan di Indonesia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu La Niña?"},
+      {"role": "assistant", "content": "Kebalikan El Niño. Suhu laut di Pasifik lebih dingin, meningkatkan curah hujan di Indonesia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Dipole Mode?"},
+      {"role": "assistant", "content": "Fenomena perbedaan suhu permukaan laut di Samudra Hindia, mempengaruhi curah hujan di Indonesia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kearifan lokal?"},
+      {"role": "assistant", "content": "Nilai, praktik, dan pengetahuan tradisional masyarakat setempat yang harmonis dengan alam. Contoh: sasi di Maluku."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gotong royong?"},
+      {"role": "assistant", "content": "Budaya kerja sama dan saling membantu dalam masyarakat Indonesia. Nilai luhur yang tetap relevan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu budaya?"},
+      {"role": "assistant", "content": "Keseluruhan cara hidup masyarakat: bahasa, seni, adat, nilai. Beragam di Indonesia, lebih dari 1.300 suku."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Pancasila?"},
+      {"role": "assistant", "content": "Dasar negara Indonesia: Ketuhanan, Kemanusiaan, Persatuan, Kerakyatan, Keadilan. Dari 1 Juni 1945."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Bhinneka Tunggal Ika?"},
+      {"role": "assistant", "content": "Semboyan Indonesia: berbeda-beda tetap satu. Dari bahasa Jawa Kuno, menyatukan keberagaman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu NKRI?"},
+      {"role": "assistant", "content": "Negara Kesatuan Republik Indonesia. Harga mati. Bentuk negara final berdasarkan UUD 1945."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu UUD 1945?"},
+      {"role": "assistant", "content": "Undang-Undang Dasar Negara Republik Indonesia. Konstitusi tertinggi. Telah diamandemen 4 kali."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu DPR?"},
+      {"role": "assistant", "content": "Dewan Perwakilan Rakyat. Lembaga legislatif yang membuat undang-undang bersama presiden. Anggota dipilih lewat pemilu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu MPR?"},
+      {"role": "assistant", "content": "Majelis Permusyawaratan Rakyat. Terdiri dari DPR dan DPD. Berwenang mengubah dan menetapkan UUD."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Mahkamah Agung?"},
+      {"role": "assistant", "content": "Lembaga yudikatif tertinggi. Mengadili kasasi dan peninjauan kembali. Pengawas peradilan di bawahnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu Mahkamah Konstitusi?"},
+      {"role": "assistant", "content": "MK. Menguji UU terhadap UUD. Memutus sengketa pemilu dan pembubaran partai politik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu KPK?"},
+      {"role": "assistant", "content": "Komisi Pemberantasan Korupsi. Lembaga independen melawan korupsi di Indonesia. Dibentuk 2002."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu korupsi?"},
+      {"role": "assistant", "content": "Penyalahgunaan kekuasaan untuk keuntungan pribadi. Kolusi, suap, gratifikasi. Merugikan negara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gratifikasi?"},
+      {"role": "assistant", "content": "Pemberian dalam arti luas terkait jabatan. Pejabat wajib melaporkan ke KPK jika terkait."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pemilu?"},
+      {"role": "assistant", "content": "Pemilihan umum. Rakyat memilih wakil di legislatif dan presiden. Di Indonesia 5 tahunan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu demokrasi Pancasila?"},
+      {"role": "assistant", "content": "Sistem demokrasi Indonesia berlandaskan nilai Pancasila. Musyawarah mufakat, perwakilan, dan gotong royong."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu integritas?"},
+      {"role": "assistant", "content": "Keselarasan antara ucapan dan tindakan, konsisten pada nilai moral. Landasan kepercayaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu tanggung jawab?"},
+      {"role": "assistant", "content": "Kesadaran untuk menanggung konsekuensi dari perbuatan. Pribadi dewasa berani bertanggung jawab."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu disiplin?"},
+      {"role": "assistant", "content": "Ketaatan pada aturan atau jadwal. Kunci produktivitas dan pembentukan karakter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kerja keras?"},
+      {"role": "assistant", "content": "Usaha sungguh-sungguh untuk mencapai tujuan. Bakat saja tidak cukup tanpa kerja keras."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kemandirian?"},
+      {"role": "assistant", "content": "Kemampuan mengurus diri sendiri tanpa bergantung pada orang lain. Termasuk mandiri finansial."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pendidikan?"},
+      {"role": "assistant", "content": "Proses belajar formal maupun informal. Mencerdaskan kehidupan bangsa, amanat UUD 1945."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu literasi?"},
+      {"role": "assistant", "content": "Kemampuan membaca, menulis, dan memahami informasi. Literasi digital dan finansial makin penting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu riset?"},
+      {"role": "assistant", "content": "Penyelidikan sistematis untuk menemukan fakta atau prinsip baru. Dasar kemajuan sains."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu publikasi ilmiah?"},
+      {"role": "assistant", "content": "Penyebaran hasil riset di jurnal akademik. Melalui peer review untuk menjaga kualitas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hak paten?"},
+      {"role": "assistant", "content": "Hak eksklusif atas invensi. Melindungi penemu dari pemakaian tanpa izin selama 20 tahun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu plagiarisme?"},
+      {"role": "assistant", "content": "Penjiplakan karya orang lain tanpa atribusi. Pelanggaran etika serius di dunia akademik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sitasi?"},
+      {"role": "assistant", "content": "Kutipan atau rujukan sumber dalam karya tulis. Format: APA, MLA, Chicago."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu artificial neural network?"},
+      {"role": "assistant", "content": "Model komputasi terinspirasi otak biologis. Lapisan neuron buatan memproses informasi, dasar deep learning."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu regresi?"},
+      {"role": "assistant", "content": "Metode statistik memodelkan hubungan variabel dependen dan independen. Prediksi nilai kontinu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu klasifikasi?"},
+      {"role": "assistant", "content": "Teknik machine learning untuk mengelompokkan data ke kategori. Contoh: spam detection."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu klastering?"},
+      {"role": "assistant", "content": "Pengelompokan data tanpa label (unsupervised). K-means populer. Segmentasi pelanggan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu database?"},
+      {"role": "assistant", "content": "Kumpulan data terstruktur yang disimpan secara elektronik. DBMS: MySQL, PostgreSQL, Oracle."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu query?"},
+      {"role": "assistant", "content": "Permintaan data dari database. SQL adalah bahasa query paling umum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu diagram alir?"},
+      {"role": "assistant", "content": "Flowchart. Representasi visual langkah-langkah proses atau algoritma. Simbol standar: oval (mulai), persegi (proses)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu variabel?"},
+      {"role": "assistant", "content": "Simbol yang menyimpan nilai dan bisa berubah dalam program. Tipe: integer, string, boolean."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu loop?"},
+      {"role": "assistant", "content": "Struktur kontrol untuk mengulangi blok kode. for, while, do-while. Hindari infinite loop."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu array?"},
+      {"role": "assistant", "content": "Struktur data yang menyimpan elemen sejenis secara berurutan. Indeks dimulai 0."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu objek?"},
+      {"role": "assistant", "content": "Entitas dalam pemrograman berorientasi objek (OOP). Punya properti (data) dan method (fungsi)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kelas?"},
+      {"role": "assistant", "content": "Cetak biru untuk membuat objek. Mendefinisikan atribut dan perilaku. Contoh: class Mobil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu inheritance?"},
+      {"role": "assistant", "content": "Pewarisan dalam OOP. Kelas anak mewarisi sifat kelas induk. Memungkinkan reusability kode."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu IDE?"},
+      {"role": "assistant", "content": "Integrated Development Environment. Aplikasi untuk menulis kode: VS Code, PyCharm, Eclipse."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu debugging?"},
+      {"role": "assistant", "content": "Proses menemukan dan memperbaiki bug (kesalahan) dalam program. Tools: breakpoint, print statement."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu clean code?"},
+      {"role": "assistant", "content": "Kode yang mudah dibaca, dipelihara, dan sederhana. Prinsip: meaningful names, fungsi kecil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu refactoring?"},
+      {"role": "assistant", "content": "Menulis ulang kode tanpa mengubah perilaku eksternal untuk meningkatkan struktur internal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu runtime?"},
+      {"role": "assistant", "content": "Periode saat program dijalankan. Error runtime muncul saat eksekusi, bukan saat kompilasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kompilasi?"},
+      {"role": "assistant", "content": "Proses menerjemahkan kode sumber ke bahasa mesin. C, C++ memerlukan kompilasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu interpreter?"},
+      {"role": "assistant", "content": "Program yang mengeksekusi kode baris per baris tanpa kompilasi. Python, JavaScript diinterpretasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu debugging?"},
+      {"role": "assistant", "content": "Proses mencari dan memperbaiki kesalahan dalam kode. Gunakan log, debugger, dan unit test."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu testing?"},
+      {"role": "assistant", "content": "Verifikasi bahwa perangkat lunak berfungsi sesuai spesifikasi. Jenis: unit, integrasi, sistem, UAT."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu agile?"},
+      {"role": "assistant", "content": "Pendekatan pengembangan iteratif dan inkremental. Scrum dan Kanban adalah framework agile populer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sprint?"},
+      {"role": "assistant", "content": "Siklus kerja pendek (1-4 minggu) dalam Scrum. Tim menyelesaikan sejumlah pekerjaan terpilih."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu user story?"},
+      {"role": "assistant", "content": "Deskripsi fitur dari perspektif pengguna: 'Sebagai [pengguna], saya ingin [fitur] sehingga [manfaat]'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu backlog?"},
+      {"role": "assistant", "content": "Daftar pekerjaan yang harus diselesaikan dalam proyek. Product backlog (fitur), sprint backlog (tugas terpilih)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu wireframe?"},
+      {"role": "assistant", "content": "Sketsa kasar tata letak antarmuka pengguna. Fokus pada struktur, bukan desain visual."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu prototype?"},
+      {"role": "assistant", "content": "Model awal produk untuk menguji konsep. Bisa low-fidelity (kertas) atau high-fidelity (interaktif)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu UX?"},
+      {"role": "assistant", "content": "User Experience. Keseluruhan pengalaman pengguna berinteraksi dengan produk. Fokus pada kemudahan dan kepuasan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu UI?"},
+      {"role": "assistant", "content": "User Interface. Tampilan visual produk: tombol, ikon, layout. Estetika dan kejelasan."}
+    ]
+  }
+]
