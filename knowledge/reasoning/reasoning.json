@@ -1,0 +1,1000 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A lebih besar dari B, dan B lebih besar dari C. Mana yang paling kecil?"},
+      {"role": "assistant", "content": "C. Karena C < B < A. Jadi C yang paling kecil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua kucing suka ikan. Tom adalah kucing. Apakah Tom suka ikan?"},
+      {"role": "assistant", "content": "Ya. Karena semua kucing suka ikan, dan Tom adalah kucing, maka Tom pasti suka ikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika hari ini hujan, maka jalanan basah. Jalanan basah. Apakah pasti hujan?"},
+      {"role": "assistant", "content": "Tidak pasti. Jalanan bisa basah karena disiram atau banjir. Hujan bukan satu-satunya penyebab."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ani lebih tinggi dari Budi. Budi lebih tinggi dari Caca. Siapa yang paling tinggi?"},
+      {"role": "assistant", "content": "Ani. Karena Ani > Budi > Caca. Urutannya Ani paling tinggi."}
+    ]
+  },
+  {
+    "messages": [
+      "role": "user", "content": "Jika semua burung bisa terbang, dan penguin adalah burung. Apakah penguin bisa terbang?"
+    },
+    {
+      "role": "assistant", "content": "Secara logika jika premis 'semua burung bisa terbang' diterima, maka penguin bisa terbang. Tapi kenyataannya penguin tidak bisa terbang. Jadi premisnya yang salah: tidak semua burung bisa terbang."
+    }
+  ],
+  {
+    "messages": [
+      {"role": "user", "content": "5 lebih besar dari 3. 3 lebih besar dari 1. Apakah 5 lebih besar dari 1?"},
+      {"role": "assistant", "content": "Ya. Karena 5 > 3 dan 3 > 1, maka 5 > 1. Ini sifat transitif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A = B, dan B = C. Apakah A = C?"},
+      {"role": "assistant", "content": "Ya. Jika A sama dengan B, dan B sama dengan C, maka A pasti sama dengan C."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua manusia bernapas. Saya manusia. Apakah saya bernapas?"},
+      {"role": "assistant", "content": "Ya. Karena semua manusia bernapas, dan kamu manusia, maka kamu bernapas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika lampu merah menyala, kendaraan harus berhenti. Lampu merah menyala. Apa yang harus dilakukan?"},
+      {"role": "assistant", "content": "Berhenti. Karena aturannya: jika lampu merah, berhenti. Sekarang lampu merah menyala, jadi harus berhenti."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rina punya 3 apel, diberi 2 apel lagi. Berapa apel Rina sekarang?"},
+      {"role": "assistant", "content": "5 apel. 3 apel awal + 2 apel baru = 5 apel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika besi dipanaskan, besi memuai. Besi ini dipanaskan. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Besi akan memuai. Karena aturannya: jika dipanaskan, memuai. Besi ini dipanaskan, jadi memuai."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah 10 itu bilangan genap? Kenapa?"},
+      {"role": "assistant", "content": "Ya. Karena 10 bisa dibagi 2 tanpa sisa (10 ÷ 2 = 5). Bilangan genap selalu habis dibagi 2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika suatu bilangan habis dibagi 6, apakah pasti habis dibagi 3?"},
+      {"role": "assistant", "content": "Ya. Karena 6 = 2 × 3. Kalau habis dibagi 6, berarti habis dibagi 2 dan 3. Jadi pasti habis dibagi 3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Segitiga memiliki 3 sisi. Apakah bangun dengan 3 sisi pasti segitiga?"},
+      {"role": "assistant", "content": "Ya. Definisi segitiga adalah bangun datar dengan tepat 3 sisi. Jadi bangun dengan 3 sisi adalah segitiga."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika saya lapar, saya makan. Saya lapar. Apa yang saya lakukan?"},
+      {"role": "assistant", "content": "Makan. Karena kondisinya: jika lapar maka makan. Sekarang lapar, jadi makan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua ikan hidup di air. Hiu adalah ikan. Apakah hiu hidup di air?"},
+      {"role": "assistant", "content": "Ya. Semua ikan hidup di air, hiu termasuk ikan, jadi hiu hidup di air."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika nilai di atas 70 dinyatakan lulus. Nilai Dina 85. Apakah Dina lulus?"},
+      {"role": "assistant", "content": "Ya. 85 lebih besar dari 70, jadi Dina lulus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hari ini Senin. 3 hari lagi hari apa?"},
+      {"role": "assistant", "content": "Kamis. Senin → Selasa (1) → Rabu (2) → Kamis (3)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika sebuah toko tutup pukul 21.00, dan sekarang pukul 21.30. Apakah toko masih buka?"},
+      {"role": "assistant", "content": "Tidak. Karena toko tutup pukul 21.00, dan sekarang sudah lewat, jadi toko sudah tutup."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Ayah lahir sebelum ibu. Ibu lahir sebelum paman. Siapa yang lahir pertama?"},
+      {"role": "assistant", "content": "Ayah. Ayah > Ibu > Paman. Ayah yang paling dulu lahir."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika x + 3 = 8. Berapa x?"},
+      {"role": "assistant", "content": "x = 5. Karena 8 - 3 = 5. Jadi x = 5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah semua persegi adalah persegi panjang?"},
+      {"role": "assistant", "content": "Ya. Persegi punya 4 sisi dan 4 sudut siku-siku. Itu memenuhi definisi persegi panjang. Tapi tidak semua persegi panjang adalah persegi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah kotak berisi 5 bola merah dan 3 bola biru. Berapa total bola?"},
+      {"role": "assistant", "content": "8 bola. 5 merah + 3 biru = 8 bola."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika air didinginkan di bawah 0°C, apa yang terjadi?"},
+      {"role": "assistant", "content": "Air akan membeku menjadi es. Karena titik beku air adalah 0°C."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A = 10, B = 5. Apakah A dua kali B?"},
+      {"role": "assistant", "content": "Ya. Karena 10 adalah 2 kali 5. 10 ÷ 5 = 2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dua buah benda dijatuhkan dari ketinggian sama. Mana yang sampai duluan?"},
+      {"role": "assistant", "content": "Tanpa hambatan udara, keduanya sampai bersamaan. Karena gravitasi sama untuk semua benda. Massa tidak mempengaruhi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika hari ini cerah, saya pergi ke taman. Hari ini cerah. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Saya pergi ke taman. Karena syaratnya terpenuhi: cerah → pergi taman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua siswa memakai seragam. Rudi adalah siswa. Apakah Rudi memakai seragam?"},
+      {"role": "assistant", "content": "Ya. Rudi siswa, semua siswa memakai seragam, jadi Rudi memakai seragam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah 15 adalah bilangan prima?"},
+      {"role": "assistant", "content": "Bukan. Karena 15 bisa dibagi 3 dan 5 (15 = 3 × 5). Bilangan prima hanya bisa dibagi 1 dan dirinya sendiri."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jam dinding menunjukkan pukul 14.00. Berapa jam lagi sampai pukul 17.00?"},
+      {"role": "assistant", "content": "3 jam. 17 - 14 = 3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika kendaraan kehabisan bensin, mesin akan mati. Mobil ini kehabisan bensin. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Mesin mobil akan mati. Karena syaratnya terpenuhi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah kue dibagi 4 bagian sama besar. Setiap bagian berapa persen?"},
+      {"role": "assistant", "content": "25%. Karena 100% ÷ 4 = 25%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah 100 gram lebih berat dari 1 kilogram?"},
+      {"role": "assistant", "content": "Tidak. 1 kilogram = 1.000 gram. 100 gram lebih ringan dari 1.000 gram."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika suatu bilangan dikali 1, hasilnya?"},
+      {"role": "assistant", "content": "Bilangan itu sendiri. Karena 1 adalah elemen identitas perkalian. Contoh: 7 × 1 = 7."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah udara termasuk benda gas?"},
+      {"role": "assistant", "content": "Ya. Udara adalah campuran gas, terutama nitrogen dan oksigen. Jadi udara termasuk benda gas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Minggu ini 7 hari. 2 minggu berapa hari?"},
+      {"role": "assistant", "content": "14 hari. Karena 7 × 2 = 14."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika saya belajar, saya pintar. Saya belajar setiap hari. Apakah saya pintar?"},
+      {"role": "assistant", "content": "Belum tentu. Belajar meningkatkan kemungkinan pintar, tapi tidak menjamin. Ada faktor lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bumi bulat. Apakah ada sudut di permukaan Bumi?"},
+      {"role": "assistant", "content": "Tidak. Permukaan bola tidak memiliki sudut. Sudut hanya ada pada bangun datar atau pertemuan rusuk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika sebuah pintu terbuka, orang bisa masuk. Pintu terbuka. Apakah orang pasti masuk?"},
+      {"role": "assistant", "content": "Tidak pasti. Pintu terbuka memungkinkan masuk, tapi tidak memaksa orang untuk masuk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah setiap makhluk hidup butuh air?"},
+      {"role": "assistant", "content": "Ya. Semua makhluk hidup yang kita kenal membutuhkan air untuk bertahan hidup."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika gelas diisi penuh air, lalu dimasukkan batu. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Air akan tumpah. Karena batu memindahkan volume air yang sama dengan volumenya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jarak Jakarta-Bandung 150 km. Ditempuh 3 jam. Kecepatan rata-rata?"},
+      {"role": "assistant", "content": "50 km/jam. Karena 150 km ÷ 3 jam = 50 km/jam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 3 orang butuh 6 hari menyelesaikan pekerjaan, berapa hari untuk 6 orang?"},
+      {"role": "assistant", "content": "3 hari. Karena jumlah orang dan waktu berbanding terbalik. 2 kali orang → 1/2 kali waktu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua logam menghantarkan listrik. Kayu bukan logam. Apakah kayu menghantarkan listrik?"},
+      {"role": "assistant", "content": "Tidak bisa disimpulkan dari pernyataan itu. Kita hanya tahu logam menghantarkan, tidak tahu tentang non-logam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika sebuah wadah tertutup rapat berisi air dipanaskan. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Tekanan di dalam wadah meningkat. Karena air memuai saat dipanaskan, tapi volume tetap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suhu badan normal 36-37°C. Suhu Andi 38,5°C. Apakah Andi demam?"},
+      {"role": "assistant", "content": "Ya. Karena 38,5°C di atas batas normal 37°C. Andi demam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa perbedaan antara harus dan sebaiknya?"},
+      {"role": "assistant", "content": "Harus: wajib, tidak bisa ditawar. Sebaiknya: saran, masih ada pilihan lain. 'Harus berhenti di lampu merah' vs 'Sebaiknya bawa payung'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika air dipanaskan terus menerus, apa yang terjadi?"},
+      {"role": "assistant", "content": "Air akan mendidih pada 100°C dan berubah menjadi uap. Setelah semua jadi uap, suhu uap bisa naik lagi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah bulan mengeluarkan cahaya sendiri?"},
+      {"role": "assistant", "content": "Tidak. Bulan memantulkan cahaya dari Matahari. Itu sebabnya bulan terlihat bersinar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika semua A adalah B, dan semua B adalah C. Apakah semua A adalah C?"},
+      {"role": "assistant", "content": "Ya. Ini logika transitif. A ⊆ B ⊆ C, maka A ⊆ C."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Gelas A berisi air panas, gelas B berisi air dingin. Gelas mana yang lebih dulu dingin?"},
+      {"role": "assistant", "content": "Tergantung suhu ruangan. Tapi air panas akan lebih cepat kehilangan panas karena perbedaan suhu lebih besar dengan ruangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah 0 itu bilangan positif atau negatif?"},
+      {"role": "assistant", "content": "Bukan keduanya. 0 adalah bilangan netral. Tidak positif dan tidak negatif."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Budi lebih muda dari Andi. Andi lebih muda dari Cici. Siapa paling tua?"},
+      {"role": "assistant", "content": "Cici. Karena Cici > Andi > Budi. Cici paling tua."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika tidak hujan, tanaman disiram. Hari ini tidak hujan. Apa yang harus dilakukan?"},
+      {"role": "assistant", "content": "Tanaman harus disiram. Karena aturannya: tidak hujan → siram tanaman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah segitiga punya sudut 60° dan 60°. Berapa sudut ketiga?"},
+      {"role": "assistant", "content": "60°. Karena jumlah sudut segitiga 180°. 180 - 60 - 60 = 60. Segitiga sama sisi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah ikan paus termasuk ikan?"},
+      {"role": "assistant", "content": "Bukan. Paus adalah mamalia laut. Ciri mamalia: beranak, menyusui, bernapas dengan paru-paru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mangga lebih manis dari jeruk. Jeruk lebih manis dari apel. Buah apa yang paling tidak manis?"},
+      {"role": "assistant", "content": "Apel. Karena mangga > jeruk > apel. Apel yang paling tidak manis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika kamu punya 2 baju dan 3 celana, berapa pasang pakaian berbeda yang bisa dipakai?"},
+      {"role": "assistant", "content": "6 pasang. 2 baju × 3 celana = 6 kombinasi berbeda."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika api butuh oksigen, lalu api ditutup rapat. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Api akan padam. Karena oksigen habis dan tidak ada pasokan baru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Seekor kucing punya 4 kaki. 3 kucing punya berapa kaki?"},
+      {"role": "assistant", "content": "12 kaki. 3 × 4 = 12."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah mungkin hujan tanpa awan?"},
+      {"role": "assistant", "content": "Tidak. Hujan berasal dari awan. Tidak ada awan, tidak ada hujan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A lebih berat dari B, dan B lebih berat dari C. Apakah C paling ringan?"},
+      {"role": "assistant", "content": "Ya. Karena A > B > C. C yang paling ringan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tanaman butuh cahaya untuk fotosintesis. Tanaman di tempat gelap. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Tanaman tidak bisa berfotosintesis. Lama-kelamaan akan layu dan mati."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika sebuah toples berisi 20 permen, dan diambil 8. Berapa sisa?"},
+      {"role": "assistant", "content": "12 permen. 20 - 8 = 12."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang terjadi jika es dibiarkan di suhu ruangan?"},
+      {"role": "assistant", "content": "Es akan mencair. Karena suhu ruangan di atas titik leleh es (0°C)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua mamalia berdarah panas. Paus adalah mamalia. Apakah paus berdarah panas?"},
+      {"role": "assistant", "content": "Ya. Karena paus mamalia dan semua mamalia berdarah panas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika sebuah taman berbentuk persegi dengan sisi 10 m, berapa luasnya?"},
+      {"role": "assistant", "content": "100 m². 10 × 10 = 100."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mana yang lebih dulu: telur atau ayam? Jelaskan secara logika."},
+      {"role": "assistant", "content": "Secara evolusi, telur lebih dulu. Hewan bertelur sudah ada sebelum ayam modern. Ayam pertama menetas dari telur yang dihasilkan oleh nenek moyang yang bukan ayam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Harga barang naik 10%, lalu turun 10%. Apakah kembali ke harga awal?"},
+      {"role": "assistant", "content": "Tidak. Contoh: harga 100.000 naik 10% jadi 110.000. Turun 10% dari 110.000 = 11.000. Hasil akhir 99.000. Turun 1%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika hari ini Selasa, 5 hari yang lalu hari apa?"},
+      {"role": "assistant", "content": "Kamis. Mundur 5 hari: Senin, Minggu, Sabtu, Jumat, Kamis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah mungkin ada asap tanpa api?"},
+      {"role": "assistant", "content": "Ya. Asap bisa berasal dari reaksi kimia tanpa api, seperti asap dari dry ice atau mesin fog."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua hewan karnivora makan daging. Singa adalah karnivora. Apakah singa makan daging?"},
+      {"role": "assistant", "content": "Ya. Singa karnivora, semua karnivora makan daging."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika x = 5 dan y = 2x. Berapa y?"},
+      {"role": "assistant", "content": "y = 10. Karena y = 2 × 5 = 10."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lilin menyala ditutup gelas. Apa yang terjadi dan kenapa?"},
+      {"role": "assistant", "content": "Lilin padam. Karena oksigen di dalam gelas habis terbakar, dan tidak ada oksigen baru yang masuk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah kebenaran selalu mutlak?"},
+      {"role": "assistant", "content": "Tidak selalu. Ada kebenaran objektif (fakta ilmiah) dan kebenaran subjektif (pendapat, selera). Konteks penting."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A adalah ibu dari B, dan B adalah ibu dari C. Hubungan A dengan C?"},
+      {"role": "assistant", "content": "A adalah nenek dari C. Karena A ibu dari B, dan B ibu dari C."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Roda sepeda berputar 100 kali. Jika keliling roda 2 meter, berapa jarak yang ditempuh?"},
+      {"role": "assistant", "content": "200 meter. 100 putaran × 2 meter = 200 meter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika susunan tempat duduk: Andi di kanan Budi, Budi di kanan Caca. Siapa di paling kiri?"},
+      {"role": "assistant", "content": "Caca. Urutan dari kiri: Caca - Budi - Andi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah akibat lebih dulu dari sebab?"},
+      {"role": "assistant", "content": "Tidak. Sebab selalu mendahului akibat. Itu prinsip kausalitas dasar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Gula larut dalam air. Pasir tidak larut. Mengapa?"},
+      {"role": "assistant", "content": "Karena gula bersifat polar seperti air, sehingga bisa larut. Pasir (silika) bersifat non-polar dan strukturnya kristalin kuat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 1 jam = 60 menit. 3,5 jam = ... menit?"},
+      {"role": "assistant", "content": "210 menit. 3,5 × 60 = 210."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Semua sayuran sehat. Permen bukan sayuran. Apakah permen tidak sehat?"},
+      {"role": "assistant", "content": "Tidak bisa disimpulkan langsung. Dari pernyataan itu, kita hanya tahu sayuran sehat. Tidak ada info tentang permen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Dua benda bermuatan sama didekatkan. Apa yang terjadi?"},
+      {"role": "assistant", "content": "Akan tolak-menolak. Muatan sejenis saling menolak, muatan berbeda saling tarik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 1 lusin = 12 buah. 2,5 lusin = ... buah?"},
+      {"role": "assistant", "content": "30 buah. 2,5 × 12 = 30."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah semua yang hidup pasti mati?"},
+      {"role": "assistant", "content": "Secara biologis, ya. Semua makhluk hidup memiliki siklus hidup yang berakhir dengan kematian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika lampu lalu lintas kuning, apa artinya?"},
+      {"role": "assistant", "content": "Hati-hati, siap berhenti. Bukan berarti gas lebih cepat. Kurangi kecepatan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mengapa langit siang berwarna biru?"},
+      {"role": "assistant", "content": "Karena hamburan Rayleigh. Molekul udara menyebarkan cahaya biru lebih banyak dari warna lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika Andi lebih lambat dari Budi, dan Budi lebih lambat dari Caca. Siapa tercepat?"},
+      {"role": "assistant", "content": "Caca. Semakin lambat berarti waktunya lebih banyak. Caca paling sedikit waktunya = tercepat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bisakah sesuatu ada dan tidak ada bersamaan?"},
+      {"role": "assistant", "content": "Dalam logika klasik, tidak. Hukum non-kontradiksi: sesuatu tidak bisa sekaligus ada dan tidak ada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika semua pintu keluar ditutup, apakah orang di dalam gedung bisa keluar?"},
+      {"role": "assistant", "content": "Tidak melalui pintu. Harus lewat jalur lain seperti jendela atau tangga darurat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah bak air terisi penuh 200 liter. Dipakai 65 liter. Sisa?"},
+      {"role": "assistant", "content": "135 liter. 200 - 65 = 135."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika gravitasi bulan 1/6 bumi, berat 60 kg di bumi jadi berapa di bulan?"},
+      {"role": "assistant", "content": "10 kg. 60 ÷ 6 = 10. Sebenarnya massa tetap, tapi berat yang berubah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah es bisa tenggelam dalam air?"},
+      {"role": "assistant", "content": "Tidak. Es mengapung karena massa jenis es (0,92 g/cm³) lebih kecil dari air (1 g/cm³)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika daun berwarna hijau karena klorofil, mengapa ada daun berwarna merah?"},
+      {"role": "assistant", "content": "Daun merah mengandung antosianin yang menutupi warna hijau klorofil. Atau klorofil sudah berkurang (daun tua)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang lebih dulu ada: biji atau pohon?"},
+      {"role": "assistant", "content": "Dalam siklus hidup tumbuhan, biji berasal dari pohon, tapi pohon juga berasal dari biji. Ini siklus, tidak ada yang pertama absolut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah mobil bergerak dengan kecepatan tetap 60 km/jam selama 2,5 jam. Jaraknya?"},
+      {"role": "assistant", "content": "150 km. 60 × 2,5 = 150."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika bumi berputar, mengapa kita tidak merasakannya?"},
+      {"role": "assistant", "content": "Karena gerakannya sangat halus dan konstan. Kita bergerak bersama atmosfer dan segala isinya, jadi tidak terasa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah diam itu selalu emas?"},
+      {"role": "assistant", "content": "Tidak selalu. Diam itu emas jika mencegah konflik. Tapi diam bisa berbahaya jika ketidakadilan terjadi dan tidak ada yang bersuara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Lilin meleleh saat dinyalakan. Kenapa?"},
+      {"role": "assistant", "content": "Panas dari sumbu yang terbakar melelehkan lilin di sekitarnya. Lilin yang meleleh kemudian naik ke sumbu dan ikut terbakar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 1 kg kapas dan 1 kg besi dijatuhkan bersamaan, mana yang sampai duluan?"},
+      {"role": "assistant", "content": "Di ruang hampa, bersamaan. Di udara, kapas lebih lambat karena hambatan udara lebih besar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa syarat utama agar sesuatu disebut makhluk hidup?"},
+      {"role": "assistant", "content": "Bernapas, bergerak, tumbuh, berkembang biak, peka terhadap rangsang, dan memerlukan nutrisi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa besi berkarat?"},
+      {"role": "assistant", "content": "Karena reaksi oksidasi antara besi, oksigen, dan air. Membentuk oksida besi (karat)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika tidak ada matahari, apa yang terjadi pada bumi?"},
+      {"role": "assistant", "content": "Bumi akan gelap dan sangat dingin. Tumbuhan tidak bisa fotosintesis, rantai makanan runtuh. Kehidupan punah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah dadu dilempar, berapa peluang muncul mata dadu ganjil?"},
+      {"role": "assistant", "content": "1/2 atau 50%. Dari 6 sisi, yang ganjil: 1, 3, 5 (3 dari 6)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah mungkin hujan di padang pasir?"},
+      {"role": "assistant", "content": "Mungkin, tapi sangat jarang. Padang pasir menerima curah hujan sangat rendah, kurang dari 250 mm per tahun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara membedakan fakta dan opini?"},
+      {"role": "assistant", "content": "Fakta bisa dibuktikan benar/salah dengan data. Opini adalah pendapat pribadi yang subjektif. 'Hari ini 30°C' (fakta). 'Hari ini panas banget' (opini)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita tidak bisa melihat dalam gelap?"},
+      {"role": "assistant", "content": "Karena mata butuh cahaya untuk melihat. Sel kerucut dan batang di retina merespons cahaya. Tanpa cahaya, tidak ada stimulus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika x - 7 = 3. x = ?"},
+      {"role": "assistant", "content": "x = 10. Karena 10 - 7 = 3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mengapa air laut tidak membeku di musim dingin seperti air tawar?"},
+      {"role": "assistant", "content": "Karena garam menurunkan titik beku. Air laut membeku di sekitar -2°C, lebih rendah dari air tawar (0°C)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah tidur siang baik untuk kesehatan?"},
+      {"role": "assistant", "content": "Ya, tidur siang singkat 20-30 menit bisa menyegarkan otak, meningkatkan fokus, dan mengurangi stres. Tapi jangan terlalu lama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 5 orang membuat 5 kue dalam 5 jam. Berapa kue yang dibuat 10 orang dalam 10 jam?"},
+      {"role": "assistant", "content": "20 kue. 1 orang = 1 kue per 5 jam = 0,2 kue/jam. 10 orang × 10 jam × 0,2 = 20."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa pesawat bisa terbang padahal berat?"},
+      {"role": "assistant", "content": "Karena gaya angkat (lift) dari sayap. Udara mengalir lebih cepat di atas sayap, tekanan turun, mendorong pesawat ke atas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah gunung bisa tumbuh?"},
+      {"role": "assistant", "content": "Ya. Gunung api bisa tumbuh dari letusan material vulkanik. Pegunungan juga tumbuh dari tumbukan lempeng tektonik, tapi sangat lambat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah tali 2 meter dipotong 75 cm. Sisa berapa cm?"},
+      {"role": "assistant", "content": "125 cm. 2 meter = 200 cm. 200 - 75 = 125 cm."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita bersin?"},
+      {"role": "assistant", "content": "Bersin adalah refleks tubuh untuk mengeluarkan benda asing dari hidung, seperti debu atau kuman. Melindungi saluran pernapasan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah setiap akibat hanya punya satu sebab?"},
+      {"role": "assistant", "content": "Tidak. Satu akibat bisa punya banyak sebab. Contoh: banjir bisa karena hujan deras, sampah, atau drainase buruk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika harga naik, permintaan biasanya turun. Apakah ini selalu benar?"},
+      {"role": "assistant", "content": "Untuk barang normal, ya. Tapi ada pengecualian: barang mewah (Veblen) justru naik permintaannya saat harga naik, karena dianggap prestise."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Seberapa cepat cahaya matahari sampai ke bumi?"},
+      {"role": "assistant", "content": "Sekitar 8 menit 20 detik. Jarak Matahari-Bumi 150 juta km, kecepatan cahaya 300.000 km/detik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A tidak lebih pintar dari B, apakah B pasti lebih pintar dari A?"},
+      {"role": "assistant", "content": "Tidak. Mungkin mereka sama pintarnya. 'Tidak lebih' berarti ≤, bukan <."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mengapa minyak dan air tidak bisa bersatu?"},
+      {"role": "assistant", "content": "Karena minyak bersifat non-polar, sedangkan air polar. Molekul polar hanya larut dengan sesama polar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah sinar matahari pagi baik untuk tulang?"},
+      {"role": "assistant", "content": "Ya. Sinar matahari pagi membantu kulit memproduksi vitamin D, yang penting untuk penyerapan kalsium dan kesehatan tulang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 20% dari x adalah 10. Berapa x?"},
+      {"role": "assistant", "content": "x = 50. Karena 10 adalah 20% dari x, maka x = 10 / 0,2 = 50."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan korelasi bukan berarti kausalitas?"},
+      {"role": "assistant", "content": "Dua hal bisa terjadi bersamaan tanpa yang satu menyebabkan yang lain. Contoh: penjualan es krim naik dan kasus tenggelam naik. Keduanya disebabkan musim panas, bukan es krim menyebabkan tenggelam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita harus tidur?"},
+      {"role": "assistant", "content": "Saat tidur, otak membersihkan racun, mengonsolidasi memori, dan tubuh memperbaiki sel. Penting untuk kesehatan fisik dan mental."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika sebuah ember diisi air setengahnya, lalu diisi lagi 5 liter menjadi penuh. Berapa kapasitas ember?"},
+      {"role": "assistant", "content": "10 liter. Setengah kapasitas = 5 liter, jadi kapasitas penuh = 10 liter."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah pendapat mayoritas selalu benar?"},
+      {"role": "assistant", "content": "Tidak. Kebenaran tidak ditentukan oleh jumlah yang percaya. Dulu mayoritas percaya bumi datar, itu tidak menjadikannya benar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berat benda di bumi dan di bulan, mana yang lebih besar?"},
+      {"role": "assistant", "content": "Di bumi lebih besar. Karena gravitasi bumi 6 kali gravitasi bulan. Berat = massa × gravitasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita merasa dingin saat demam?"},
+      {"role": "assistant", "content": "Karena otak menaikkan 'set point' suhu tubuh. Tubuh merasa 'kurang panas' dibanding set point baru, jadi kita menggigil untuk menghasilkan panas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika Andi mengerjakan tugas 2 jam, Budi 3 jam. Jika dikerjakan bersama, berapa lama?"},
+      {"role": "assistant", "content": "1,2 jam atau 1 jam 12 menit. Andi 1/2 per jam, Budi 1/3 per jam. Bersama 5/6 per jam. Waktu = 6/5 jam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah stres selalu buruk?"},
+      {"role": "assistant", "content": "Tidak. Stres ringan (eustress) bisa memotivasi. Stres kronis (distress) yang merusak kesehatan. Bedakan keduanya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mana yang lebih dulu: petir atau guntur? Kenapa?"},
+      {"role": "assistant", "content": "Petir terjadi dulu, tapi kita lihat duluan karena kecepatan cahaya (300.000 km/s) jauh lebih cepat dari suara (0,34 km/s)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa gula bisa mengawetkan makanan?"},
+      {"role": "assistant", "content": "Gula mengikat air (osmosis), mengurangi kadar air yang dibutuhkan bakteri. Bakteri dehidrasi dan tidak bisa tumbuh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 2x + 3 = 15. x = ?"},
+      {"role": "assistant", "content": "x = 6. 2x = 12, x = 6."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah kebisingan bisa menyebabkan tuli permanen?"},
+      {"role": "assistant", "content": "Ya. Paparan suara di atas 85 dB dalam waktu lama bisa merusak sel rambut di koklea secara permanen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kucing selalu mendarat dengan kaki?"},
+      {"role": "assistant", "content": "Kucing memiliki 'righting reflex'. Tulang belakang fleksibel memungkinkan memutar tubuh saat jatuh. Tapi hanya efektif dari ketinggian tertentu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa perbedaan antara 'perlu' dan 'cukup' dalam logika?"},
+      {"role": "assistant", "content": "Perlu: syarat yang harus ada. Cukup: syarat yang menjamin. Udara perlu untuk hidup, tapi tidak cukup (butuh juga makanan)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mengapa balon helium bisa terbang?"},
+      {"role": "assistant", "content": "Karena helium lebih ringan dari udara. Massa jenis helium lebih kecil, sehingga balon mengalami gaya apung ke atas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika uang ditabung dengan bunga 5% per tahun, berapa jumlah setelah 2 tahun jika awal 1.000.000?"},
+      {"role": "assistant", "content": "1.102.500 (bunga majemuk). Tahun 1: 1.050.000. Tahun 2: 1.102.500."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah orang yang tidur 4 jam sehari tetap sehat?"},
+      {"role": "assistant", "content": "Umumnya tidak. Orang dewasa butuh 7-9 jam. Kurang tidur kronis meningkatkan risiko penyakit jantung, diabetes, dan gangguan mental."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa pelangi berbentuk setengah lingkaran?"},
+      {"role": "assistant", "content": "Karena sudut pantulan cahaya matahari oleh tetesan air selalu sekitar 42°. Ini membentuk lingkaran, tapi dari tanah kita hanya lihat setengahnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika kita berada di ekuator, apakah berat badan kita lebih ringan?"},
+      {"role": "assistant", "content": "Ya, sedikit. Karena rotasi bumi menghasilkan gaya sentrifugal dan bumi tidak bulat sempurna. Perbedaannya sekitar 0,5%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah semua racun mematikan?"},
+      {"role": "assistant", "content": "Tergantung dosis. Paracelsus: 'Dosis yang membuat racun.' Air pun bisa mematikan jika diminum berlebihan (keracunan air)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 2/5 bagian kue dimakan, berapa persen sisanya?"},
+      {"role": "assistant", "content": "60%. 2/5 = 40% dimakan. Sisa 100% - 40% = 60%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bagaimana cara ikan bernapas di dalam air?"},
+      {"role": "assistant", "content": "Ikan mengambil oksigen terlarut dalam air melalui insang. Air masuk mulut, melewati lembaran insang, oksigen diserap ke darah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa langit sore berwarna jingga?"},
+      {"role": "assistant", "content": "Karena cahaya matahari menempuh jarak lebih jauh di atmosfer. Gelombang biru terhambur, menyisakan merah dan jingga yang sampai ke mata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah satu-satunya makhluk yang menggunakan alat adalah manusia?"},
+      {"role": "assistant", "content": "Bukan. Banyak hewan menggunakan alat: simpanse menggunakan ranting untuk mengambil rayap, burung gagak membuat kait dari kawat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika suhu udara 30°C, berapa dalam Fahrenheit?"},
+      {"role": "assistant", "content": "86°F. Rumus: °F = (9/5 × °C) + 32 = (54) + 32 = 86."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita harus mengunyah makanan dengan baik?"},
+      {"role": "assistant", "content": "Mengunyah memperkecil ukuran makanan, mencampur dengan enzim ludah, dan meringankan kerja lambung. Pencernaan dimulai di mulut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika suara tidak bisa merambat di ruang hampa, kenapa astronot bisa bicara di luar angkasa?"},
+      {"role": "assistant", "content": "Mereka tidak bisa bicara langsung. Komunikasi menggunakan gelombang radio yang bisa merambat di ruang hampa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang terjadi jika kita tidak minum air seharian?"},
+      {"role": "assistant", "content": "Dehidrasi. Gejala: pusing, kulit kering, urin gelap. Jika parah bisa menyebabkan gagal ginjal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa air di dalam termos tetap panas?"},
+      {"role": "assistant", "content": "Termos menggunakan ruang hampa antara dindingnya. Vakum mencegah perpindahan panas secara konduksi dan konveksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika A dan B berlawanan, lalu B dan C berlawanan. Bagaimana hubungan A dan C?"},
+      {"role": "assistant", "content": "A dan C searah. Jika A utara, B selatan. B selatan maka C utara. A dan C sama-sama utara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah tidur dengan lampu menyala buruk?"},
+      {"role": "assistant", "content": "Ya, cahaya menghambat produksi melatonin, hormon tidur. Sebaiknya tidur dalam gelap untuk kualitas tidur lebih baik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita harus pemanasan sebelum olahraga?"},
+      {"role": "assistant", "content": "Pemanasan meningkatkan aliran darah ke otot, menaikkan suhu tubuh, dan mengurangi risiko cedera. Mempersiapkan tubuh secara bertahap."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika seekor burung terbang di dalam truk tertutup. Apakah berat truk berubah?"},
+      {"role": "assistant", "content": "Tidak berubah. Gaya ke bawah dari sayap burung mendorong udara, yang menekan lantai truk. Berat total tetap sama."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Mengapa kita harus menghemat air?"},
+      {"role": "assistant", "content": "Air bersih terbatas. Meski bumi 70% air, hanya 3% air tawar, dan hanya 1% yang mudah diakses. Sisanya es dan air tanah dalam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang terjadi jika seluruh es di kutub mencair?"},
+      {"role": "assistant", "content": "Permukaan laut naik sekitar 70 meter. Banyak kota pesisir tenggelam. Iklim global berubah drastis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah poin penting dalam debat adalah memenangkan argumen?"},
+      {"role": "assistant", "content": "Tidak selalu. Poin penting debat adalah menemukan kebenaran atau solusi terbaik. Bukan sekadar menang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika x² = 36. Berapa nilai x?"},
+      {"role": "assistant", "content": "x = 6 atau x = -6. Karena 6² = 36 dan (-6)² = 36."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa ada siang dan malam?"},
+      {"role": "assistant", "content": "Karena bumi berotasi pada porosnya. Bagian yang menghadap matahari mengalami siang, yang membelakangi mengalami malam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 3/4 bagian kue dimakan 6 orang sama rata, berapa bagian per orang?"},
+      {"role": "assistant", "content": "1/8 bagian. 3/4 ÷ 6 = 3/24 = 1/8."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah tidur siang bisa menggantikan tidur malam?"},
+      {"role": "assistant", "content": "Tidak sepenuhnya. Tidur malam memiliki siklus REM dan deep sleep yang lebih panjang dan esensial. Tidur siang hanya tambahan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa kita harus mencuci tangan dengan sabun?"},
+      {"role": "assistant", "content": "Sabun memecah membran lemak virus dan bakteri, mengangkat kotoran. Air saja tidak cukup menghilangkan kuman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apakah berpikir keras membakar kalori?"},
+      {"role": "assistant", "content": "Ya, otak menggunakan 20% energi tubuh. Berpikir keras meningkatkan konsumsi glukosa, tapi kalori yang terbakar relatif kecil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan 'survival of the fittest'?"},
+      {"role": "assistant", "content": "Bukan yang terkuat, tapi yang paling mampu beradaptasi dengan lingkungannya. Kebugaran evolusi = kemampuan bertahan dan bereproduksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa air dalam botol bisa lebih dingin dari udara sekitar?"},
+      {"role": "assistant", "content": "Karena penguapan. Air di permukaan botol menguap, menyerap panas dari botol dan membuatnya lebih dingin."}
+    ]
+  }
+]

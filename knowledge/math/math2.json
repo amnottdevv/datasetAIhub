@@ -1,0 +1,590 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa 15% dari 200?"},
+      {"role": "assistant", "content": "30."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2/3 + 1/3?"},
+      {"role": "assistant", "content": "1."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "3/4 - 1/4?"},
+      {"role": "assistant", "content": "1/2 atau 0,5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "1/2 × 4/5?"},
+      {"role": "assistant", "content": "2/5 atau 0,4."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "3/5 ÷ 2/3?"},
+      {"role": "assistant", "content": "9/10 atau 0,9."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "x + 5 = 12. x?"},
+      {"role": "assistant", "content": "7."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "3y = 21. Nilai y?"},
+      {"role": "assistant", "content": "7."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2a - 4 = 10. a?"},
+      {"role": "assistant", "content": "7."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "z/4 = 5. z?"},
+      {"role": "assistant", "content": "20."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Keliling persegi sisi 8 cm?"},
+      {"role": "assistant", "content": "32 cm."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Luas persegi panjang, panjang 10 cm lebar 6 cm?"},
+      {"role": "assistant", "content": "60 cm²."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Luas segitiga alas 12 cm tinggi 5 cm?"},
+      {"role": "assistant", "content": "30 cm²."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Keliling lingkaran jari-jari 7 cm (π=22/7)?"},
+      {"role": "assistant", "content": "44 cm."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Volume kubus rusuk 5 cm?"},
+      {"role": "assistant", "content": "125 cm³."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "1/2 liter = ... ml?"},
+      {"role": "assistant", "content": "500 ml."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "3 kg = ... gram?"},
+      {"role": "assistant", "content": "3.000 gram."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2,5 jam = ... menit?"},
+      {"role": "assistant", "content": "150 menit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Beli 3 buku @Rp12.000, bayar Rp50.000. Kembalian?"},
+      {"role": "assistant", "content": "Rp14.000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Tabungan awal Rp200.000, bunga 5% setahun. Bunga diterima?"},
+      {"role": "assistant", "content": "Rp10.000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jarak kota A-B 120 km, kecepatan 60 km/jam. Waktu tempuh?"},
+      {"role": "assistant", "content": "2 jam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Skala peta 1:250.000, jarak peta 4 cm. Jarak sebenarnya?"},
+      {"role": "assistant", "content": "10 km atau 1.000.000 cm."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suhu udara 28°C, turun 15°C. Sekarang?"},
+      {"role": "assistant", "content": "13°C."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rata-rata dari 6, 8, 10 adalah?"},
+      {"role": "assistant", "content": "8."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Median dari 5, 9, 3, 7, 5?"},
+      {"role": "assistant", "content": "5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Modus dari 2, 3, 3, 4, 4, 4, 5?"},
+      {"role": "assistant", "content": "4."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Peluang muncul angka pada koin?"},
+      {"role": "assistant", "content": "1/2 atau 50%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Faktorial 5! = ?"},
+      {"role": "assistant", "content": "120."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Log₁₀(100)?"},
+      {"role": "assistant", "content": "2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "8 + 4 × 2?"},
+      {"role": "assistant", "content": "16 (ingat perkalian dulu: 4×2=8, 8+8=16)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "(5+3)²?"},
+      {"role": "assistant", "content": "64."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2³ × 2²?"},
+      {"role": "assistant", "content": "2⁵ = 32."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "16^(1/2)?"},
+      {"role": "assistant", "content": "4."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Konversi 45° ke radian (π rad = 180°)?"},
+      {"role": "assistant", "content": "π/4 radian."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "sin 30°?"},
+      {"role": "assistant", "content": "1/2 atau 0,5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "cos 60°?"},
+      {"role": "assistant", "content": "1/2 atau 0,5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "tan 45°?"},
+      {"role": "assistant", "content": "1."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa sisi miring segitiga siku-siku dengan sisi 3 cm dan 4 cm?"},
+      {"role": "assistant", "content": "5 cm (teorema Pythagoras)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jumlah sudut dalam segitiga?"},
+      {"role": "assistant", "content": "180°."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "1 + 2 + 3 + ... + 10?"},
+      {"role": "assistant", "content": "55."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "20% dari 150?"},
+      {"role": "assistant", "content": "30."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Harga setelah diskon 25% dari 200.000?"},
+      {"role": "assistant", "content": "150.000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 3 apel harganya 9.000, berapa 7 apel?"},
+      {"role": "assistant", "content": "21.000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Uang Adi 3 kali uang Budi. Jumlah uang mereka 48.000. Uang Budi?"},
+      {"role": "assistant", "content": "12.000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Perbandingan kelereng A:B = 3:5. Total 40 butir. Kelereng B?"},
+      {"role": "assistant", "content": "25 butir."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Umur ayah 4 dasawarsa lebih 2 tahun. Umur ayah?"},
+      {"role": "assistant", "content": "42 tahun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2 windu + 3 tahun = ... tahun?"},
+      {"role": "assistant", "content": "19 tahun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "1 abad = ... tahun?"},
+      {"role": "assistant", "content": "100 tahun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jika 5 pekerja selesai 10 hari, berapa hari untuk 2 pekerja (proporsi terbalik)?"},
+      {"role": "assistant", "content": "25 hari."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hitung 2/5 dari 100?"},
+      {"role": "assistant", "content": "40."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "0,75 diubah ke pecahan biasa?"},
+      {"role": "assistant", "content": "3/4."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa hasil 10² - 6²?"},
+      {"role": "assistant", "content": "100 - 36 = 64."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suatu bilangan dikali 4 lalu ditambah 6 = 26. Bilangan itu?"},
+      {"role": "assistant", "content": "5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Akar pangkat tiga dari 27?"},
+      {"role": "assistant", "content": "3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "100 - 7 × 5 + 3?"},
+      {"role": "assistant", "content": "100 - 35 + 3 = 68."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "24 × 15?"},
+      {"role": "assistant", "content": "360."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "360 ÷ 12?"},
+      {"role": "assistant", "content": "30."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "FPB dari 24 dan 36?"},
+      {"role": "assistant", "content": "12."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "KPK dari 6 dan 8?"},
+      {"role": "assistant", "content": "24."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bilangan prima antara 10 dan 20?"},
+      {"role": "assistant", "content": "11, 13, 17, 19."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sudut jam 3 tepat?"},
+      {"role": "assistant", "content": "90° (siku-siku)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa 7! / 5! ?"},
+      {"role": "assistant", "content": "7×6 = 42."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "0,125 dalam persen?"},
+      {"role": "assistant", "content": "12,5%."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah tali dipotong menjadi 4 bagian sama panjang. Masing-masing 2,5 m. Panjang tali semula?"},
+      {"role": "assistant", "content": "10 m."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Luas lingkaran diameter 14 cm?"},
+      {"role": "assistant", "content": "154 cm² (π=22/7, r=7)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Volume tabung r=7, t=10?"},
+      {"role": "assistant", "content": "1.540 cm³ (π=22/7)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kecepatan 72 km/jam = ... m/s?"},
+      {"role": "assistant", "content": "20 m/s (dibagi 3,6)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Beli barang 80.000, rugi 20%. Harga jualnya?"},
+      {"role": "assistant", "content": "64.000."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bruto 50 kg, tara 2 kg. Netto?"},
+      {"role": "assistant", "content": "48 kg."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Rumus suku ke-n: Un = 2n + 3. Suku ke-5?"},
+      {"role": "assistant", "content": "13."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Jumlah 10 suku pertama deret 1, 3, 5, 7,...?"},
+      {"role": "assistant", "content": "100."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2⁵?"},
+      {"role": "assistant", "content": "32."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "10⁻²?"},
+      {"role": "assistant", "content": "0,01."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Notasi ilmiah 4.500.000?"},
+      {"role": "assistant", "content": "4,5 × 10⁶."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Nilai π hingga 2 desimal?"},
+      {"role": "assistant", "content": "3,14."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Diketahui titik A(2,3) dan B(5,7). Jarak AB?"},
+      {"role": "assistant", "content": "5 satuan (√((5-2)²+(7-3)²) = √(9+16) = √25)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Gradien garis melalui (0,0) dan (4,8)?"},
+      {"role": "assistant", "content": "2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Bentuk sederhana 3x + 2y - x + 4y?"},
+      {"role": "assistant", "content": "2x + 6y."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "(a³b²)²?"},
+      {"role": "assistant", "content": "a⁶b⁴."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Penyelesaian 2x - 3 = 9 adalah?"},
+      {"role": "assistant", "content": "x = 6."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Himpunan penyelesaian x² = 25?"},
+      {"role": "assistant", "content": "x = 5 atau x = -5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Log₂(8)?"},
+      {"role": "assistant", "content": "3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "2,4 + 3,15?"},
+      {"role": "assistant", "content": "5,55."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "11 × 11?"},
+      {"role": "assistant", "content": "121."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Hasil dari 18/3 + 4?"},
+      {"role": "assistant", "content": "6 + 4 = 10."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Sebuah persegi panjang keliling 36 cm, panjang 10 cm. Lebar?"},
+      {"role": "assistant", "content": "8 cm (karena 2(p+l)=36, p+l=18, l=8)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Suatu fungsi f(x)=3x-1. f(4)?"},
+      {"role": "assistant", "content": "11."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "1/3 + 0,5?"},
+      {"role": "assistant", "content": "5/6 atau sekitar 0,833."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Akar persamaan kuadrat x² - 5x + 6 = 0?"},
+      {"role": "assistant", "content": "x = 2 atau x = 3."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Diketahui deret geometri 2, 4, 8, ... suku ke-5?"},
+      {"role": "assistant", "content": "32."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Banyak rusuk pada kubus?"},
+      {"role": "assistant", "content": "12."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Banyak sisi pada prisma segitiga?"},
+      {"role": "assistant", "content": "5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Luas permukaan bola jari-jari 7 cm?"},
+      {"role": "assistant", "content": "616 cm² (4×π×r², π=22/7)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Median dari data: 4, 5, 6, 7, 8, 9?"},
+      {"role": "assistant", "content": "(6+7)/2 = 6,5."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Simpangan rata-rata dari 4, 6, 8, 10?"},
+      {"role": "assistant", "content": "Rata-rata 7, simpangan: |4-7|=3,|6-7|=1,|8-7|=1,|10-7|=3, rata-rata = (3+1+1+3)/4 = 2."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Peluang dadu kurang dari 5?"},
+      {"role": "assistant", "content": "4/6 = 2/3 (mata 1,2,3,4)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kombinasi 5C2?"},
+      {"role": "assistant", "content": "10."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Permutasi 4P3?"},
+      {"role": "assistant", "content": "24."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Titik potong sumbu y dari y = 2x + 6?"},
+      {"role": "assistant", "content": "(0,6)."}
+    ]
+  }
+]
