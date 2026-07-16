@@ -1,0 +1,914 @@
+[
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fotosintesis?"},
+      {"role": "assistant", "content": "Proses tumbuhan mengubah cahaya matahari, air, dan CO₂ menjadi glukosa dan oksigen. Terjadi di kloroplas daun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penemu gravitasi?"},
+      {"role": "assistant", "content": "Isaac Newton merumuskan hukum gravitasi universal. Konon terinspirasi apel jatuh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa ibu kota Australia?"},
+      {"role": "assistant", "content": "Canberra. Bukan Sydney seperti yang banyak dikira."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu efek rumah kaca?"},
+      {"role": "assistant", "content": "Proses terperangkapnya panas matahari di atmosfer Bumi akibat gas seperti CO₂, menyebabkan pemanasan global."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa jarak Bumi ke Bulan?"},
+      {"role": "assistant", "content": "Rata-rata 384.400 km. Cahaya butuh sekitar 1,3 detik untuk menempuhnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu DNA?"},
+      {"role": "assistant", "content": "Asam deoksiribonukleat, materi genetik yang membawa instruksi untuk perkembangan dan fungsi makhluk hidup."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kapan Indonesia merdeka?"},
+      {"role": "assistant", "content": "17 Agustus 1945. Proklamasi dibacakan Soekarno-Hatta di Jalan Pegangsaan Timur 56, Jakarta."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu black hole?"},
+      {"role": "assistant", "content": "Lubang hitam adalah wilayah di ruang angkasa dengan gravitasi sangat kuat sehingga cahaya pun tidak bisa lolos."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa presiden pertama Amerika Serikat?"},
+      {"role": "assistant", "content": "George Washington. Menjabat 1789-1797."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu metabolisme?"},
+      {"role": "assistant", "content": "Seluruh reaksi kimia dalam tubuh untuk mengubah makanan menjadi energi dan bahan pembangun sel."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa kecepatan cahaya?"},
+      {"role": "assistant", "content": "Sekitar 299.792 kilometer per detik di ruang hampa. Konstanta fisika tertinggi yang diketahui."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu algoritma?"},
+      {"role": "assistant", "content": "Langkah-langkah logis untuk menyelesaikan masalah. Dalam komputasi, algoritma adalah instruksi untuk program."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mitosis?"},
+      {"role": "assistant", "content": "Pembelahan sel yang menghasilkan dua sel anak identik. Terjadi pada sel tubuh untuk pertumbuhan dan perbaikan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa gunung tertinggi di dunia?"},
+      {"role": "assistant", "content": "Gunung Everest, 8.848 meter di atas permukaan laut. Terletak di perbatasan Nepal-Tibet."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penulis novel Laskar Pelangi?"},
+      {"role": "assistant", "content": "Andrea Hirata. Novel ini terbit tahun 2005, mengisahkan perjuangan anak-anak di Belitung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu blockchain?"},
+      {"role": "assistant", "content": "Teknologi penyimpanan data terdesentralisasi yang aman dan transparan, terkenal sebagai dasar cryptocurrency."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa fungsi hati manusia?"},
+      {"role": "assistant", "content": "Menyaring racun, memproduksi empedu, menyimpan vitamin dan glikogen, serta metabolisme zat gizi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu tsunami?"},
+      {"role": "assistant", "content": "Gelombang laut besar akibat gempa bawah laut, letusan gunung, atau longsor. Bisa mencapai kecepatan 800 km/jam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa jumlah pulau di Indonesia?"},
+      {"role": "assistant", "content": "Sekitar 17.000 pulau. Data resmi terus diverifikasi. Sekitar 6.000 di antaranya berpenghuni."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu internet of things?"},
+      {"role": "assistant", "content": "Konsep di mana benda sehari-hari terhubung internet dan bisa saling bertukar data. Contoh: smart lamp, smart lock."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penemu lampu pijar?"},
+      {"role": "assistant", "content": "Thomas Alva Edison sering dikreditkan, meski banyak penemu sebelumnya. Ia menyempurnakan dan membuatnya praktis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu meditasi?"},
+      {"role": "assistant", "content": "Latihan memfokuskan pikiran untuk mencapai ketenangan mental dan kesadaran penuh. Berasal dari tradisi Timur."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan revolusi industri 4.0?"},
+      {"role": "assistant", "content": "Era digital dengan integrasi AI, IoT, big data, dan otomatisasi canggih dalam industri dan kehidupan sehari-hari."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Kenapa air laut asin?"},
+      {"role": "assistant", "content": "Karena mineral dan garam dari batuan di daratan terbawa aliran air ke laut selama jutaan tahun, terutama natrium klorida."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ekosistem?"},
+      {"role": "assistant", "content": "Komunitas makhluk hidup yang berinteraksi dengan lingkungan fisiknya dalam suatu area, seperti hutan hujan tropis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa yang menciptakan huruf Braille?"},
+      {"role": "assistant", "content": "Louis Braille, pria asal Prancis yang mengalami kebutaan. Sistem ini menggunakan titik timbul untuk membaca."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu global warming?"},
+      {"role": "assistant", "content": "Peningkatan suhu rata-rata permukaan Bumi akibat akumulasi gas rumah kaca dari aktivitas manusia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa kepanjangan ASEAN?"},
+      {"role": "assistant", "content": "Association of Southeast Asian Nations. Organisasi regional negara-negara Asia Tenggara, berdiri 1967."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ekliptika?"},
+      {"role": "assistant", "content": "Bidang orbit Bumi mengelilingi Matahari. Jalur ini juga dilalui planet-planet lain dalam tata surya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan inflasi?"},
+      {"role": "assistant", "content": "Kenaikan harga barang dan jasa secara umum dalam suatu periode, menurunkan daya beli uang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu aurora?"},
+      {"role": "assistant", "content": "Fenomena cahaya alami di langit kutub akibat interaksi partikel matahari dengan medan magnet Bumi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penemu telepon?"},
+      {"role": "assistant", "content": "Alexander Graham Bell dipatenkan tahun 1876. Tapi Antonio Meucci juga mengklaim sebagai penemu awal."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu simbiosis?"},
+      {"role": "assistant", "content": "Hubungan erat dua spesies berbeda. Ada mutualisme (saling untung), komensalisme, dan parasitisme."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa fungsi vitamin C?"},
+      {"role": "assistant", "content": "Antioksidan, meningkatkan imun, membantu penyerapan zat besi, dan penting untuk produksi kolagen."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi kinetik?"},
+      {"role": "assistant", "content": "Energi yang dimiliki benda karena gerakannya. Makin cepat dan berat benda, makin besar energi kinetiknya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan big bang?"},
+      {"role": "assistant", "content": "Teori pembentukan alam semesta dari ledakan besar sekitar 13,8 miliar tahun lalu. Bukan ledakan harfiah, tapi pengembangan ruang."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu genre musik blues?"},
+      {"role": "assistant", "content": "Aliran musik dari Afrika-Amerika di akhir abad 19, dengan struktur 12 bar, nada sedih, dan improvisasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa nama sungai terpanjang di dunia?"},
+      {"role": "assistant", "content": "Sungai Nil di Afrika, sekitar 6.650 km. Mengalir melalui 11 negara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu magnet?"},
+      {"role": "assistant", "content": "Benda yang menghasilkan medan magnet, bisa menarik besi. Magnet alami seperti magnetit, buatan seperti elektromagnet."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hewan nokturnal?"},
+      {"role": "assistant", "content": "Hewan yang aktif di malam hari, seperti kelelawar dan burung hantu. Adaptasi mata dan pendengaran tajam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa tokoh proklamator Indonesia?"},
+      {"role": "assistant", "content": "Ir. Soekarno dan Drs. Mohammad Hatta. Mereka membacakan teks proklamasi kemerdekaan 17 Agustus 1945."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu piramida makanan?"},
+      {"role": "assistant", "content": "Gambaran hierarki rantai makanan: produsen di dasar, konsumen puncak di atas. Energi menurun tiap tingkat."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kalori?"},
+      {"role": "assistant", "content": "Satuan energi. Dalam nutrisi, kalori menunjukkan jumlah energi yang diperoleh dari makanan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu etika?"},
+      {"role": "assistant", "content": "Cabang filsafat tentang benar-salah, baik-buruk. Pedoman moral dalam bertindak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa ibu kota Jepang?"},
+      {"role": "assistant", "content": "Tokyo. Sebelumnya bernama Edo, menjadi ibu kota sejak 1868."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gugus fungsi?"},
+      {"role": "assistant", "content": "Kelompok atom dalam molekul yang menentukan sifat kimia senyawa organik, seperti alkohol (-OH) atau karboksil (-COOH)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu konduktor?"},
+      {"role": "assistant", "content": "Bahan yang mudah menghantarkan listrik atau panas, seperti tembaga dan aluminium. Lawannya isolator."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan urbanisasi?"},
+      {"role": "assistant", "content": "Perpindahan penduduk dari desa ke kota. Berdampak pada kepadatan, infrastruktur, dan lapangan kerja."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penulis buku 'Sapiens'?"},
+      {"role": "assistant", "content": "Yuval Noah Harari, sejarawan Israel. Buku ini merangkum sejarah umat manusia dari zaman batu hingga modern."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu periskop?"},
+      {"role": "assistant", "content": "Alat optik dengan cermin/prisma untuk melihat dari posisi tersembunyi, biasa dipakai di kapal selam."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa fungsi paru-paru?"},
+      {"role": "assistant", "content": "Tempat pertukaran gas: oksigen masuk darah, karbon dioksida dikeluarkan. Terjadi di alveolus."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu khatulistiwa?"},
+      {"role": "assistant", "content": "Garis imajiner yang membagi Bumi menjadi belahan utara dan selatan. Daerahnya beriklim tropis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu teorema Pythagoras?"},
+      {"role": "assistant", "content": "Dalam segitiga siku-siku, kuadrat sisi miring sama dengan jumlah kuadrat sisi lainnya. a² + b² = c²."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu reformasi?"},
+      {"role": "assistant", "content": "Perubahan mendasar dalam sistem politik, ekonomi, atau sosial. Di Indonesia, Reformasi 1998 menandai berakhirnya Orde Baru."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sistem tata surya?"},
+      {"role": "assistant", "content": "Sistem benda langit yang mengorbit Matahari, terdiri dari 8 planet, satelit, asteroid, komet, dan debu kosmik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa nama ilmuwan yang mengembangkan vaksin rabies?"},
+      {"role": "assistant", "content": "Louis Pasteur. Ia juga dikenal dengan pasteurisasi dan kontribusinya pada mikrobiologi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu oksidasi?"},
+      {"role": "assistant", "content": "Reaksi kimia di mana zat kehilangan elektron. Sering dikaitkan dengan karat atau pembakaran."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu yurisdiksi?"},
+      {"role": "assistant", "content": "Kekuasaan hukum suatu pengadilan atas wilayah atau perkara tertentu. Misal yurisdiksi pidana atau perdata."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bioteknologi?"},
+      {"role": "assistant", "content": "Pemanfaatan makhluk hidup atau proses biologi untuk menghasilkan produk bermanfaat, seperti insulin rekombinan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan deforestasi?"},
+      {"role": "assistant", "content": "Penebangan hutan dalam skala besar yang menyebabkan hilangnya habitat, erosi, dan perubahan iklim."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Berapa kecepatan suara di udara?"},
+      {"role": "assistant", "content": "Sekitar 343 meter per detik pada suhu 20°C. Makin tinggi suhu, makin cepat rambatnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gerhana matahari?"},
+      {"role": "assistant", "content": "Fenomena saat Bulan melintas di antara Matahari dan Bumi, menutupi cahaya matahari sebagian atau total."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu amandemen?"},
+      {"role": "assistant", "content": "Perubahan resmi pada undang-undang atau konstitusi. Di Indonesia, UUD 1945 telah diamandemen 4 kali."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa fungsi jantung?"},
+      {"role": "assistant", "content": "Memompa darah ke seluruh tubuh, membawa oksigen dan nutrisi, serta mengangkut limbah metabolisme."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu cryptocurrency?"},
+      {"role": "assistant", "content": "Mata uang digital terdesentralisasi berbasis blockchain. Bitcoin adalah yang pertama, dirilis 2009."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu migrasi?"},
+      {"role": "assistant", "content": "Perpindahan penduduk dari satu tempat ke tempat lain, bisa antar negara atau antar wilayah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa yang dimaksud dengan ekosistem terumbu karang?"},
+      {"role": "assistant", "content": "Ekosistem laut dangkal dengan keanekaragaman tinggi, terbentuk dari koloni hewan karang. Rentan perubahan suhu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu logika?"},
+      {"role": "assistant", "content": "Ilmu tentang penalaran yang benar. Digunakan dalam matematika, filsafat, dan pemrograman."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bilangan prima?"},
+      {"role": "assistant", "content": "Bilangan lebih dari 1 yang hanya habis dibagi 1 dan dirinya sendiri. Contoh: 2, 3, 5, 7, 11."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penemu mesin uap?"},
+      {"role": "assistant", "content": "James Watt menyempurnakan mesin uap pada abad ke-18, memicu Revolusi Industri. Bukan penemu pertama, tapi paling berpengaruh."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hukum Newton I?"},
+      {"role": "assistant", "content": "Hukum kelembaman: benda diam tetap diam, benda bergerak tetap bergerak konstan jika tidak ada gaya luar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu asam amino?"},
+      {"role": "assistant", "content": "Unit penyusun protein. Ada 20 jenis standar, 9 di antaranya esensial dan harus diperoleh dari makanan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pasang surut air laut?"},
+      {"role": "assistant", "content": "Perubahan tinggi permukaan laut akibat gravitasi Bulan dan Matahari. Pola harian tergantung lokasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ideologi?"},
+      {"role": "assistant", "content": "Kumpulan ide, nilai, dan keyakinan yang menjadi dasar sistem politik, ekonomi, atau sosial. Contoh: Pancasila."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu galaksi?"},
+      {"role": "assistant", "content": "Kumpulan besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Bima Sakti adalah galaksi kita."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu filterisasi?"},
+      {"role": "assistant", "content": "Proses pemisahan campuran berdasarkan ukuran partikel, menggunakan media berpori. Contoh: filter air."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hedonisme?"},
+      {"role": "assistant", "content": "Pandangan bahwa kesenangan adalah tujuan utama hidup. Sering dikritik karena mengabaikan aspek lain."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi potensial?"},
+      {"role": "assistant", "content": "Energi yang tersimpan pada benda karena posisi atau kondisinya. Contoh: air di bendungan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu zaman praaksara?"},
+      {"role": "assistant", "content": "Masa sebelum manusia mengenal tulisan. Informasi diperoleh dari artefak dan fosil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sel punca?"},
+      {"role": "assistant", "content": "Sel induk yang belum terspesialisasi dan dapat berkembang menjadi berbagai jenis sel. Potensial untuk terapi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ide pokok paragraf?"},
+      {"role": "assistant", "content": "Gagasan utama yang mendasari sebuah paragraf. Biasanya terdapat dalam kalimat topik."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu akselerasi?"},
+      {"role": "assistant", "content": "Perubahan kecepatan per satuan waktu. Bisa percepatan (positif) atau perlambatan (negatif)."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa penemu listrik?"},
+      {"role": "assistant", "content": "Michael Faraday menemukan induksi elektromagnetik. Listrik sebagai fenomena sudah diamati sejak Yunani kuno."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gerak melingkar?"},
+      {"role": "assistant", "content": "Gerak benda pada lintasan lingkaran. Memiliki percepatan sentripetal menuju pusat lingkaran."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu glukosa?"},
+      {"role": "assistant", "content": "Gula sederhana (monosakarida) sumber energi utama sel. Ditemukan dalam darah dan buah-buahan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ikatan ion?"},
+      {"role": "assistant", "content": "Ikatan kimia akibat gaya tarik antara ion positif dan negatif. Terbentuk dari transfer elektron, contoh NaCl."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pertumbuhan penduduk?"},
+      {"role": "assistant", "content": "Perubahan jumlah penduduk dipengaruhi kelahiran, kematian, dan migrasi. Dinyatakan dalam persen per tahun."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stratosfer?"},
+      {"role": "assistant", "content": "Lapisan atmosfer kedua dari bawah, 10-50 km. Tempat lapisan ozon yang menyerap UV-B."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu tahun kabisat?"},
+      {"role": "assistant", "content": "Tahun dengan 366 hari, terjadi setiap 4 tahun. Februari punya 29 hari. Menyesuaikan kalender dengan revolusi Bumi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu simulasi?"},
+      {"role": "assistant", "content": "Tiruan proses nyata menggunakan model, biasanya komputer. Digunakan untuk prediksi cuaca hingga penerbangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu tsunami Aceh 2004?"},
+      {"role": "assistant", "content": "Bencana gempa 9,1 M dan tsunami yang menewaskan 230.000 orang di 14 negara. Pusat gempa dekat Sumatra."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hormon?"},
+      {"role": "assistant", "content": "Zat kimia pembawa pesan dalam tubuh, dihasilkan kelenjar endokrin. Mengatur pertumbuhan, mood, metabolisme."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pemanasan global?"},
+      {"role": "assistant", "content": "Peningkatan suhu rata-rata global akibat efek rumah kaca. Berdampak pada iklim, es kutub, dan permukaan laut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu koordinat?"},
+      {"role": "assistant", "content": "Pasangan nilai yang menentukan posisi titik dalam ruang. Sistem kartesian (x,y) paling umum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Siapa presiden Indonesia pertama?"},
+      {"role": "assistant", "content": "Ir. Soekarno. Menjabat 1945-1967. Dikenal sebagai proklamator dan bapak bangsa."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fotografi?"},
+      {"role": "assistant", "content": "Seni dan ilmu merekam gambar dengan cahaya pada media sensitif. Kamera modern menggunakan sensor digital."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu migrasi burung?"},
+      {"role": "assistant", "content": "Perpindahan burung musiman mencari makanan atau tempat berkembang biak. Rute bisa ribuan kilometer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu internet?"},
+      {"role": "assistant", "content": "Jaringan global komputer yang saling terhubung. Menggunakan protokol TCP/IP. Lahir dari proyek ARPANET."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu filsafat?"},
+      {"role": "assistant", "content": "Studi mendasar tentang eksistensi, pengetahuan, nilai, akal, pikiran, dan bahasa. Dari bahasa Yunani 'philosophia'."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu mineral?"},
+      {"role": "assistant", "content": "Zat anorganik padat dengan struktur kristal dan komposisi kimia tertentu. Contoh: kuarsa, kalsit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu norma?"},
+      {"role": "assistant", "content": "Aturan atau standar perilaku dalam masyarakat. Bisa berupa norma agama, kesusilaan, kesopanan, atau hukum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hukum Ohm?"},
+      {"role": "assistant", "content": "Hubungan tegangan (V), arus (I), dan hambatan (R): V = I × R. Dasar elektronika."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu planet?"},
+      {"role": "assistant", "content": "Benda langit yang mengorbit bintang, cukup besar untuk gravitasi diri membentuk bulat, dan membersihkan orbitnya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pantun?"},
+      {"role": "assistant", "content": "Puisi lama Indonesia dengan rima a-b-a-b. Tiap bait 4 baris, baris 1-2 sampiran, 3-4 isi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu diplomasi?"},
+      {"role": "assistant", "content": "Seni bernegosiasi dan menjalin hubungan antarnegara. Dilakukan oleh diplomat dan duta besar."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu fauna?"},
+      {"role": "assistant", "content": "Keseluruhan hewan di suatu wilayah atau periode. Indonesia termasuk wilayah fauna Oriental dan Australasia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu flora?"},
+      {"role": "assistant", "content": "Keseluruhan tumbuhan di suatu wilayah. Indonesia punya keanekaragaman flora sangat tinggi, termasuk rafflesia."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu vaksin?"},
+      {"role": "assistant", "content": "Zat antigenik yang merangsang kekebalan tubuh terhadap penyakit. Bisa dari virus mati, dilemahkan, atau mRNA."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu aljabar?"},
+      {"role": "assistant", "content": "Cabang matematika yang menggunakan simbol dan huruf untuk merepresentasikan bilangan dan hubungan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu patriotisme?"},
+      {"role": "assistant", "content": "Sikap cinta tanah air dan rela berkorban. Berbeda dengan nasionalisme yang lebih ideologis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu stratifikasi sosial?"},
+      {"role": "assistant", "content": "Pengelompokan masyarakat ke dalam lapisan-lapisan berdasarkan kekayaan, kekuasaan, atau prestise."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu logaritma?"},
+      {"role": "assistant", "content": "Kebalikan dari eksponen. Jika 10² = 100, maka log₁₀(100) = 2. Ditemukan John Napier."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu zaman batu?"},
+      {"role": "assistant", "content": "Periode prasejarah ketika alat-alat terbuat dari batu. Dibagi Paleolitikum, Mesolitikum, Neolitikum."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu otonomi daerah?"},
+      {"role": "assistant", "content": "Hak daerah mengatur rumah tangganya sendiri. Di Indonesia, UU 23/2014 mengatur pembagian urusan pusat-daerah."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pola hidup sehat?"},
+      {"role": "assistant", "content": "Kebiasaan menjaga keseimbangan gizi, olahraga teratur, istirahat cukup, dan hindari zat berbahaya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu planet terbesar di tata surya?"},
+      {"role": "assistant", "content": "Jupiter. Diameternya sekitar 139.820 km, 11 kali Bumi. Terdiri sebagian besar hidrogen dan helium."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu senyawa?"},
+      {"role": "assistant", "content": "Zat murni terbentuk dari dua atau lebih unsur yang terikat kimia. Sifatnya berbeda dari unsur pembentuknya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu vaksinasi?"},
+      {"role": "assistant", "content": "Pemberian vaksin untuk merangsang sistem imun. Menciptakan kekebalan terhadap penyakit tertentu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu taksonomi?"},
+      {"role": "assistant", "content": "Ilmu pengelompokan makhluk hidup berdasarkan ciri. Hirarki: Kingdom, Filum, Kelas, Ordo, Famili, Genus, Spesies."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bagian tumbuhan?"},
+      {"role": "assistant", "content": "Akar, batang, daun, bunga, buah, biji. Masing-masing punya fungsi spesifik untuk pertumbuhan dan reproduksi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pencemaran udara?"},
+      {"role": "assistant", "content": "Kehadiran zat berbahaya di udara: asap kendaraan, industri, pembakaran hutan. Berdampak pada kesehatan dan iklim."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu reformasi gereja?"},
+      {"role": "assistant", "content": "Gerakan keagamaan abad 16 dipimpin Martin Luther yang memprotes praktik Gereja Katolik, melahirkan Protestan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu peredaran darah?"},
+      {"role": "assistant", "content": "Sistem transportasi internal: jantung memompa darah lewat arteri, kembali lewat vena. Ada peredaran besar dan kecil."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi terbarukan?"},
+      {"role": "assistant", "content": "Sumber energi yang dapat diperbarui alami: surya, angin, air, panas bumi, biomassa. Ramah lingkungan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu terumbu karang?"},
+      {"role": "assistant", "content": "Struktur bawah laut dari kalsium karbonat yang dihasilkan hewan karang. Habitat 25% spesies laut."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu karbon dioksida?"},
+      {"role": "assistant", "content": "Gas rumah kaca utama. Dihasilkan respirasi, pembakaran bahan bakar fosil. Diserap tumbuhan saat fotosintesis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu litosfer?"},
+      {"role": "assistant", "content": "Lapisan terluar Bumi padat, terdiri dari kerak dan mantel atas. Tempat lempeng tektonik berada."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hidrosfer?"},
+      {"role": "assistant", "content": "Seluruh air di permukaan Bumi: laut, sungai, danau, es, air tanah. Siklus hidrologi menggerakkannya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu biosfer?"},
+      {"role": "assistant", "content": "Lapisan kehidupan di Bumi, mencakup semua ekosistem. Interaksi antara litosfer, hidrosfer, dan atmosfer."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu atmosfer?"},
+      {"role": "assistant", "content": "Lapisan gas yang menyelimuti Bumi, terdiri nitrogen, oksigen, argon. Melindungi dari radiasi UV."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu satuan internasional?"},
+      {"role": "assistant", "content": "Sistem satuan pengukuran standar global. Panjang (meter), massa (kilogram), waktu (detik), dll."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu energi kinetik?"},
+      {"role": "assistant", "content": "Energi yang dimiliki benda karena gerak. Rumus: ½ mv². Makin cepat, makin besar energinya."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kontraksi otot?"},
+      {"role": "assistant", "content": "Pemendekan serabut otot akibat sinyal saraf. Energi dari ATP. Ada otot polos, lurik, jantung."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pasar modal?"},
+      {"role": "assistant", "content": "Tempat bertemunya penjual dan pembeli efek (saham, obligasi). Berfungsi sebagai sumber pendanaan perusahaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu oligarki?"},
+      {"role": "assistant", "content": "Sistem pemerintahan di mana kekuasaan dipegang oleh sekelompok kecil elit. Sering dikaitkan dengan plutokrasi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu demokrasi?"},
+      {"role": "assistant", "content": "Sistem pemerintahan dari rakyat, oleh rakyat, untuk rakyat. Ciri: pemilu, kebebasan berpendapat, persamaan hak."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu autarki?"},
+      {"role": "assistant", "content": "Sistem ekonomi mandiri, tidak bergantung pada perdagangan luar negeri. Contoh: Korea Utara."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu bunga tidur?"},
+      {"role": "assistant", "content": "Mimpi. Terjadi saat tidur REM. Otak aktif, tubuh lumpuh sementara. Fungsi: memproses memori dan emosi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu imajinasi?"},
+      {"role": "assistant", "content": "Kemampuan mental menciptakan gambaran, ide, atau sensasi tanpa stimulus eksternal. Dasar kreativitas."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu kepemimpinan?"},
+      {"role": "assistant", "content": "Kemampuan mempengaruhi, memotivasi, dan mengarahkan orang lain menuju tujuan. Gaya: otokratis, demokratis, laissez-faire."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu jaringan komputer?"},
+      {"role": "assistant", "content": "Dua atau lebih komputer terhubung untuk berbagi data dan sumber daya. Tipe: LAN, WAN, MAN."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu perang dingin?"},
+      {"role": "assistant", "content": "Periode ketegangan geopolitik antara AS dan Uni Soviet 1947-1991. Tanpa perang langsung, tapi perlombaan senjata dan ideologi."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu peristiwa Rengasdengklok?"},
+      {"role": "assistant", "content": "Penculikan Soekarno-Hatta oleh pemuda pada 16 Agustus 1945 untuk mempercepat proklamasi kemerdekaan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu sumpah pemuda?"},
+      {"role": "assistant", "content": "Ikrar pemuda Indonesia 28 Oktober 1928: satu tanah air, satu bangsa, satu bahasa. Tonggak persatuan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu konferensi Asia Afrika?"},
+      {"role": "assistant", "content": "KAA 1955 di Bandung. Melahirkan Dasasila Bandung, semangat anti-kolonialisme, cikal bakal Gerakan Non-Blok."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu ideologi Pancasila?"},
+      {"role": "assistant", "content": "Dasar negara Indonesia berisi lima sila. Digali dari nilai luhur bangsa. Diakui sebagai pemersatu."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu globalisasi?"},
+      {"role": "assistant", "content": "Proses integrasi global dalam ekonomi, budaya, teknologi. Meningkatkan keterhubungan, tapi juga tantangan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu hak asasi manusia?"},
+      {"role": "assistant", "content": "Hak dasar yang melekat sejak lahir: hidup, kebebasan, keamanan. Diakui universal lewat DUHAM PBB."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu gender?"},
+      {"role": "assistant", "content": "Peran, perilaku, dan identitas sosial yang dikonstruksi masyarakat. Berbeda dengan jenis kelamin biologis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu inovasi?"},
+      {"role": "assistant", "content": "Penerapan ide baru yang menghasilkan nilai tambah. Bisa produk, proses, atau model bisnis."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu wirausaha?"},
+      {"role": "assistant", "content": "Kegiatan menciptakan bisnis dengan menanggung risiko untuk mendapatkan keuntungan. Butuh kreativitas dan ketekunan."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "user", "content": "Apa itu pameran?"},
+      {"role": "assistant", "content": "Kegiatan menampilkan karya seni atau produk kepada publik. Bisa temporer atau permanen."}
+    ]
+  }
+]
